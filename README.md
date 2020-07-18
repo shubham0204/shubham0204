@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **various Android projects equipped with ML models**
+- 🌱 I’m currently learning **TensorFlow and Android**
+- 💬 Ask me **How to integrate various TF models with Android?**
+- 📫 How to reach me **Visit my website https://shubhampanchal.wixsite.com/site**
+- 😄 Pronouns: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
+- ⚡ Fun fact: **I'm a foodie**
+- 🏠 Lives in **Mumbai, India**
 
-- 🔭 I’m currently working on ...Android
-- 🌱 I’m currently learning ... ML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... TensorFlow
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
