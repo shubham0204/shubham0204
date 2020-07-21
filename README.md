@@ -1,5 +1,5 @@
 
-![](banner_image.jpg)
+![banner](/banner_image.jpg)
 
 # Hi there
 # I'm Shubham Panchal!
