@@ -1,5 +1,5 @@
 
-![banner](/banner_image.jpg)
+![banner](https://github.com/shubham0204/shubham0204/blob/master/banner_image.jpg?raw=true)
 
 # Hi there
 # I'm Shubham Panchal!
