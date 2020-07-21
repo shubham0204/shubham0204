@@ -1,5 +1,7 @@
-# Hi there
 
+![](banner_image.jpg)
+
+# Hi there
 # I'm Shubham Panchal!
 
 Google Certified Android Developer | Writer in Artificial Intelligence on Medium | TensorFlow Developer
