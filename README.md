@@ -1,12 +1,9 @@
 
 ![banner](https://github.com/shubham0204/shubham0204/blob/master/banner_image.jpg?raw=true)
 
-# Hi there
-# I'm Shubham Panchal!
+# Hi there, I'm Shubham Panchal!
 
 Google Certified Android Developer | Writer in Artificial Intelligence on Medium | TensorFlow Developer
-
-
 
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android**
