@@ -12,5 +12,12 @@ Google Certified Android Developer | Writer in Artificial Intelligence on Medium
 - 😄 Pronouns: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
 - ⚡ Fun fact: **I'm a foodie**
 - 🏠 Lives in **Mumbai, India**
+- 📚 Knows **English and Hindi** and other languages as per,
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0204&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Latest Repos and Projects 
+
+[![ReadMe Card alt <<](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=QLearning_With_FrozenLakeEnv_Android)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=FaceRecognition_With_FaceNet_Android)](https://github.com/anuraghazra/github-readme-stats)
