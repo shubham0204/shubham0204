@@ -3,7 +3,7 @@
 
 # Hi there, I'm [Shubham Panchal](https://www.linkedin.com/in/shubham-panchal-82ba92160/)!
 
-Google Certified Android Developer | [Writer in Artificial Intelligence on Medium](https://medium.com/@equipintelligence) | TensorFlow Developer
+Google Certified Android Developer | Mobile Machine Learning | [Writer in Artificial Intelligence on Medium](https://medium.com/@equipintelligence) | TensorFlow Developer
 
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android**
