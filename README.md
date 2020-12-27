@@ -11,7 +11,7 @@ Google Certified Android Developer | Mobile Machine Learning | [Writer in Artifi
 - 📫 How to reach me **Visit my website https://shubhampanchal.wixsite.com/site**
 - 😄 Pronouns: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
 - ⚡ Fun fact: **I'm a foodie**
-- 🏠 Lives in **Mumbai, India**
+- 🏠 Lives in **Thane (Mumbai),Maharashtra ,India**
 - 📚 Knows **English and Hindi** and other languages as per,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0204&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
