@@ -3,7 +3,7 @@
 
 # Hi there, I'm [Shubham Panchal](https://www.linkedin.com/in/shubham-panchal-82ba92160/)!
 
-Android | TensorFlow | Mobile Machine Learning | [Writer in Artificial Intelligence on Medium](https://medium.com/@equipintelligence)
+Android | TensorFlow | Mobile Machine Learning | [Writer in Artificial Intelligence on Medium](https://medium.com/@equipintelligence) | Developer ⮀ Researcher
 
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android**
