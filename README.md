@@ -3,6 +3,9 @@
 
 # Hi there, I'm [Shubham Panchal](https://www.linkedin.com/in/shubham-panchal-82ba92160/)!
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shubham0204&label=Profile%20views&color=0e75b6&style=flat"
+                     alt="shubham0204"/></p>
+
 Android | TensorFlow | Mobile Machine Learning | [Writer in Artificial Intelligence on Medium](https://medium.com/@equipintelligence) | Developer ⮀ Researcher
 
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
