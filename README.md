@@ -24,3 +24,27 @@ Android | TensorFlow | Mobile Machine Learning | [Writer in Artificial Intellige
 [![ReadMe Card alt <<](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=QLearning_With_FrozenLakeEnv_Android)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=FaceRecognition_With_FaceNet_Android)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📱 Mobile Machine Learning with Android & Kotlin
+
+> A collection of various ML algorithms implemented in Kotlin from scratch. These could be helpful while developing Android apps which need to process data with these ML algorithms.
+
+👉  [Designing Decision Trees From Scratch on Android](https://becominghuman.ai/designing-decision-trees-from-scratch-on-android-68bf7ee0d01a) **[  ( GitHub ) ](https://github.com/shubham0204/Decision_Tree_On_Android/tree/master/decision_trees_kotlin)**
+ 
+👉  [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f) **[  ( GitHub ) ]()**
+
+👉  [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52) **[  ( GitHub ) ](https://github.com/shubham0204/QLearning_With_FrozenLakeEnv_Android)**
+
+👉  [Hyperparameter Optimization With Genetic Algorithms In Kotlin](https://heartbeat.fritz.ai/hyperparameter-optimization-with-genetic-algorithms-in-kotlin-75e9c5a1e5ab) **[  ( GitHub ) ](https://github.com/shubham0204/NN_GeneticAlgo_Optimization_Kotlin)**
+
+👉  [Using FaceNet For On-Device Face Recognition With Android](https://towardsdatascience.com/using-facenet-for-on-device-face-recognition-with-android-f84e36e19761) **[  ( GitHub ) ](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android)**
+ 
+👉  [Exploring Random Forests In Light Of Kotlin](https://heartbeat.fritz.ai/exploring-random-forests-in-the-light-of-kotlin-250210793248) **[  ( GitHub ) ](https://github.com/shubham0204/Decision_Tree_On_Android/tree/master/random_forests_kotlin)**
+
+👉  [Hands-on With Multiple Linear Regression on Android](https://becominghuman.ai/hands-on-with-multiple-linear-regression-on-android-723a29e4f690) **[  ( GitHub ) ](https://github.com/shubham0204/Linear_Regression_with_Kotlin_Android)**
+
+👉  [Bayes Text Classification in Kotlin for Android without TensorFlow](https://towardsdatascience.com/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d) **[  ( GitHub ) ](https://github.com/shubham0204/Bayes_Text_Classifier_with_Kotlin)**
+
+👉  [Introducing Text2Summary: Text Summarization on Android ( With TF-IDF )](https://towardsdatascience.com/spam-classification-in-android-with-tensorflow-lite-cde417e81260) **[  ( GitHub ) ](https://github.com/shubham0204/Text2Summary-Android)**
+
+> If you are facing issues with any of these resources here, fill out [this form](https://forms.gle/6dbLZdmnBZjE99Bx5) describing your issue.
