@@ -31,6 +31,10 @@ Android | TensorFlow | Mobile Machine Learning | [Writer in Artificial Intellige
 
 > A collection of various ML algorithms implemented in Kotlin from scratch. These could be helpful while developing Android apps which need to process data with these ML algorithms.
 
+👉 Age + Gender Estimation in Android with TensorFlow **[  ( GitHub ) ](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android)**
+
+👉 Gaussian Naive Bayes in Android : Iris Classification Problem **[  ( GitHub ) ](https://github.com/shubham0204/GaussianNaiveBayes_Android_App)**
+
 👉  [Designing Decision Trees From Scratch on Android](https://becominghuman.ai/designing-decision-trees-from-scratch-on-android-68bf7ee0d01a) **[  ( GitHub ) ](https://github.com/shubham0204/Decision_Tree_On_Android/tree/master/decision_trees_kotlin)**
  
 👉  [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f) **[  ( GitHub ) ]()**
