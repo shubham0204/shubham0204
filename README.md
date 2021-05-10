@@ -21,6 +21,8 @@ Android | TensorFlow | Mobile Machine Learning | [Writer in Artificial Intellige
 
 ## Latest Repos and Projects 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=Age-Gender_Estimation_TF-Android)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card alt <<](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=QLearning_With_FrozenLakeEnv_Android)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=FaceRecognition_With_FaceNet_Android)](https://github.com/anuraghazra/github-readme-stats)
