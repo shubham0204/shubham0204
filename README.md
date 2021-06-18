@@ -9,8 +9,8 @@
 Android | TensorFlow | Mobile Machine Learning | [Writes in "Artificial Intelligence" on Medium](https://medium.com/@equipintelligence) | Developer ⮀ Researcher
 
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
-- 🌱 I’m currently learning **TensorFlow and Android**
-- 💬 Ask me **How to integrate various TF models with Android?**
+- 🌱 I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
+- 💬 Ask me **How to integrate various TF models with Android?** or **How do I implement some ML model from scratch**
 - 📫 How to reach me **Visit my website https://shubhampanchal.wixsite.com/site**
 - 😄 Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
 - ⚡ Fun fact: **I'm a foodie**
@@ -18,6 +18,17 @@ Android | TensorFlow | Mobile Machine Learning | [Writes in "Artificial Intellig
 - 📚 Knows **English and Hindi** and other languages as per,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0204&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Latest Hit on Medium
+
+- [**MLP Mixer Is All You Need?**](https://towardsdatascience.com/mlp-mixer-is-all-you-need-20dbc7587fe4)
+
+## Reach me at
+
+- [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
+- [Twitter](https://twitter.com/im_mobileML_dev)
+- [Medium](https://equipintelligence.medium.com/)
+- [StackOverflow](https://stackoverflow.com/users/10878733/shubham-panchal) , [DataScience.StackExchange](https://datascience.stackexchange.com/users/68023/shubham-panchal)
 
 ## Latest Repos and Projects 
 
