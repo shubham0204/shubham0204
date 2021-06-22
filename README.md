@@ -1,12 +1,17 @@
 
-![banner](https://github.com/shubham0204/shubham0204/blob/master/banner_image.jpg?raw=true)
+<p align="center">
+  
+  <img src="https://github.com/shubham0204/shubham0204/blob/master/banner_image.jpg?raw=true"/>
 
-# Hi there, I'm [Shubham Panchal](https://www.linkedin.com/in/shubham-panchal-82ba92160/)!
+</p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shubham0204&label=Profile%20views&color=0e75b6&style=flat"
-                     alt="shubham0204"/></p>
 
-Android | TensorFlow | Mobile Machine Learning | [Writes in "Artificial Intelligence" on Medium](https://medium.com/@equipintelligence) | Developer ⮀ Researcher
+
+<h1 align="center">Hi! I'm Shubham Panchal</h1>
+
+<p align="center">
+<b>Android | TensorFlow | Mobile Machine Learning | Writes in "Artificial Intelligence" on Medium | Developer ⮀ Researcher</b>
+</p>
 
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
@@ -18,6 +23,9 @@ Android | TensorFlow | Mobile Machine Learning | [Writes in "Artificial Intellig
 - 📚 Knows **English and Hindi** and other languages as per,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0204&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shubham0204&label=Profile%20views&color=0e75b6&style=flat"
+                     alt="shubham0204"/></p>
 
 ### Latest Hit on Medium
 
