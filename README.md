@@ -5,8 +5,6 @@
 
 </p>
 
-
-
 <h1 align="center">Hi! I'm Shubham Panchal</h1>
 
 <p align="center">
@@ -31,6 +29,8 @@
 ### Latest Hit on Medium
 
 - [**MLP Mixer Is All You Need?**](https://towardsdatascience.com/mlp-mixer-is-all-you-need-20dbc7587fe4)
+- [**Kernels vs. Filters: Demystified**](https://becominghuman.ai/kernels-vs-filters-demystified-607e0a432444)
+- [**Demystifying The Moore-Penrose Generalized Inverse**](https://www.cantorsparadise.com/demystifying-the-moore-penrose-generalized-inverse-a1b989a1dd49)
 
 ## Reach me at
 
