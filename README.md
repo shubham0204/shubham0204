@@ -34,10 +34,9 @@
 
 ## Reach me at
 
+- [Google Chat](https://mail.google.com/chat) with email **equipintelligence@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Twitter](https://twitter.com/im_mobileML_dev)
-- [Medium](https://equipintelligence.medium.com/)
-- [StackOverflow](https://stackoverflow.com/users/10878733/shubham-panchal) , [DataScience.StackExchange](https://datascience.stackexchange.com/users/68023/shubham-panchal)
 
 ## Latest Repos and Projects 
 
