@@ -11,7 +11,7 @@
 <b>Android | TensorFlow | Mobile Machine Learning | Writes in "Artificial Intelligence" on Medium | Developer ⮀ Researcher</b>
 </p>
 
-- **Open For Android + ML ( TensorFlow ) Freelancing Projects**
+- **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
 - 💬 Ask me **How to integrate various TF models with Android?** or **How do I implement some ML model from scratch**
