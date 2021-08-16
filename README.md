@@ -29,7 +29,8 @@
 ### Latest Hit on Medium
 
 - [**MLP Mixer Is All You Need?**](https://towardsdatascience.com/mlp-mixer-is-all-you-need-20dbc7587fe4)
-- [**Kernels vs. Filters: Demystified**](https://becominghuman.ai/kernels-vs-filters-demystified-607e0a432444)
+- [**Kernels vs. Filters: Demystified**](https://pub.towardsai.net/kernels-vs-filters-demystified-1fd594e1c38d)
+- [**Grad-CAM: Camera For Your Model’s Decision**](https://towardsdatascience.com/grad-cam-camera-for-your-models-decision-1ef69aae8fe7)
 - [**Demystifying The Moore-Penrose Generalized Inverse**](https://www.cantorsparadise.com/demystifying-the-moore-penrose-generalized-inverse-a1b989a1dd49)
 
 ## Reach me at
