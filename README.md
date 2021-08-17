@@ -17,9 +17,9 @@
 - 💬 Ask me **How to integrate various TF models with Android?** or **How do I implement some ML model from scratch**
 - 📫 How to reach me **Visit my website https://shubhampanchal.wixsite.com/site**
 - 😄 Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
-- ⚡ Fun fact: **I'm a foodie**
+- ⚡ Fun fact: **I'm a foodie. Also, I love reading and watching Physics content especially on Quantum Physics, Relativity and Astrophysics.**
 - 🏠 Lives in **Thane (Mumbai),Maharashtra ,India**
-- 📚 Knows **English and Hindi** and other languages as per,
+- 📚 Knows **English, Hindi and Marathi** and other languages as per,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0204&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
