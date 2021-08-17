@@ -14,7 +14,7 @@
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
-- 💬 Ask me **How to integrate various TF models with Android?** or **How do I implement some ML model from scratch**
+- 💬 Ask me **How to integrate various TF models with Android?** or **How do I implement some ML model from scratch?**
 - 📫 How to reach me **Visit my website https://shubhampanchal.wixsite.com/site**
 - 😄 Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
 - ⚡ Fun fact: **I'm a foodie. Also, I love reading and watching Physics content especially on Quantum Physics, Relativity and Astrophysics.**
