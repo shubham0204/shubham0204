@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
 - 💬 Ask me **How to integrate various TF models with Android?** or **How do I implement some ML model from scratch?**
-- 📫 How to reach me **Visit my website https://shubhampanchal.wixsite.com/site**
 - 😄 Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
 - ⚡ Fun fact: **I'm a foodie. Also, I love reading and watching Physics content especially on Quantum Physics, Relativity and Astrophysics.**
 - 🏠 Lives in **Thane (Mumbai),Maharashtra ,India**
@@ -51,13 +50,15 @@
 
 > A collection of various ML algorithms implemented in Kotlin from scratch. These could be helpful while developing Android apps which need to process data with these ML algorithms.
 
+👉 [Realtime Selfie Segmentation In Android With MLKit](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba) **[ ( GitHub ) ](https://github.com/shubham0204/MLKit_Selfie_Segmentation_Android)**
+
 👉 [Age + Gender Estimation in Android with TensorFlow](https://towardsdatascience.com/detecting-age-and-gender-with-tf-lite-on-android-33997eed6c25) **[  ( GitHub ) ](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android)**
 
 👉 [Gaussian Naive Bayes in Android : Iris Classification Problem](https://heartbeat.fritz.ai/implementing-the-gaussian-naive-bayes-classifier-in-android-67746b69d1b1) **[  ( GitHub ) ](https://github.com/shubham0204/GaussianNaiveBayes_Android_App)**
 
 👉  [Designing Decision Trees From Scratch on Android](https://becominghuman.ai/designing-decision-trees-from-scratch-on-android-68bf7ee0d01a) **[  ( GitHub ) ](https://github.com/shubham0204/Decision_Tree_On_Android/tree/master/decision_trees_kotlin)**
  
-👉  [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f) **[  ( GitHub ) ]()**
+👉  [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f) **[  ( GitHub ) ](https://github.com/shubham0204/Feedforward_Neural_Network_Kotlin)**
 
 👉  [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52) **[  ( GitHub ) ](https://github.com/shubham0204/QLearning_With_FrozenLakeEnv_Android)**
 
