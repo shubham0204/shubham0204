@@ -11,6 +11,8 @@
 <b>Android | TensorFlow | Mobile Machine Learning | Writes in "Artificial Intelligence" on Medium | Developer ⮀ Researcher</b>
 </p>
 
+> ♥ [Support Developer - Buy me a ☕ coffee!](https://paypal.me/ShubhamPanchalDev)
+
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
 - 🌱 I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
