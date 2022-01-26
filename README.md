@@ -23,9 +23,12 @@
 - 📚 Knows **English, Hindi and Marathi** and other languages as per,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0204&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=shubham0204&count_private=true&show_icons=true&theme=light" alt="Shubham's github stats"/>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shubham0204&label=Profile%20views&color=0e75b6&style=flat"
                      alt="shubham0204"/></p>
+                     
+                     
 
 ### Latest Hit on Medium
 
