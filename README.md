@@ -12,6 +12,7 @@
 </p>
 
 > ♥ [Support Developer - Buy me a ☕ coffee!](https://paypal.me/ShubhamPanchalDev)
+> Download my [Mini Portfolio](https://github.com/shubham0204/shubham0204/raw/master/Portfolio_mini.pdf)
 
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
 - 🔭 I’m currently working on **various Android projects equipped with ML models**
