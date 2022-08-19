@@ -30,7 +30,7 @@
 - [Google Chat](https://mail.google.com/chat) with email ID **equipintelligence@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 
-## Profiles
+## 🌐 Profiles
 
 - [Linktree ( Collection of all links)](https://linktr.ee/shubham0204)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
@@ -42,7 +42,7 @@
 ## 🧑‍💻 Work Experience
 
 - [Android + ML freelance developer] at [ClearSky | Edge Ai](https://www.linkedin.com/company/clearsky-ai/)
-- Android Development Intern at [AjnaLens](https://www.ajnalens.com)
+- [Android Development Intern] at [AjnaLens](https://www.ajnalens.com)
 
 ## 📱 Mobile ML Projects
 
