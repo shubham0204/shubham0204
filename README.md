@@ -21,13 +21,28 @@
 - Ask me **How to integrate various TF models with Android?** or **How to add a ML-based feature in an Android app**
 - Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
 - Fun fact: **I'm a foodie. Also, I love reading and watching Physics content especially on Quantum Physics, Relativity and Astrophysics.**
+- Education: Bachelors in Computer Engineering from [PICT, Pune](https://pict.edu)
 - Lives in **Pune, Maharashtra, India** but belongs to **Thane, Maharashtra, India**
-- Knows **English, Hindi and Marathi** and other languages as per,
+- Knows **English, Hindi and Marathi**
 
 ## 🙂 Reach me at
 
 - [Google Chat](https://mail.google.com/chat) with email ID **equipintelligence@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
+
+## Profiles
+
+- [Linktree ( Collection of all links)](https://linktr.ee/shubham0204)
+- [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
+- [Medium](https://equipintelligence.medium.com)
+- [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
+
+<a href="https://stackoverflow.com/users/13546426/shubham-panchal"><img src="https://stackoverflow.com/users/flair/13546426.png" width="208" height="58" alt="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+## 🧑‍💻 Work Experience
+
+- [Android + ML freelance developer] at [ClearSky | Edge Ai](https://www.linkedin.com/company/clearsky-ai/)
+- Android Development Intern at [AjnaLens](https://www.ajnalens.com)
 
 ## 📱 Mobile ML Projects
 
