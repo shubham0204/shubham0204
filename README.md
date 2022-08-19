@@ -8,77 +8,108 @@
 <h1 align="center">Hi! I'm Shubham Panchal</h1>
 
 <p align="center">
-<b>Android | TensorFlow | Mobile Machine Learning | Writes in "Artificial Intelligence" on Medium | Developer ⮀ Researcher</b>
+<b>Android | TensorFlow | Mobile Machine Learning | Writes Blogs on Math, ML and Android | Developer ⮀ Researcher</b>
 </p>
 
 > ♥ [Support Developer - Buy me a ☕ coffee!](https://paypal.me/ShubhamPanchalDev)
+> 
 > Download my [Mini Portfolio](https://github.com/shubham0204/shubham0204/raw/master/Portfolio_mini.pdf)
 
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
-- 🔭 I’m currently working on **various Android projects equipped with ML models**
-- 🌱 I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
-- 💬 Ask me **How to integrate various TF models with Android?** or **How do I implement some ML model from scratch?**
-- 😄 Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
-- ⚡ Fun fact: **I'm a foodie. Also, I love reading and watching Physics content especially on Quantum Physics, Relativity and Astrophysics.**
-- 🏠 Lives in **Pune, Maharashtra ,India** but belongs to **Thane, Maharashtra, India**
-- 📚 Knows **English, Hindi and Marathi** and other languages as per,
+- I’m currently working on **various Android projects equipped with ML models**
+- I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
+- Ask me **How to integrate various TF models with Android?** or **How to add a ML-based feature in an Android app**
+- Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
+- Fun fact: **I'm a foodie. Also, I love reading and watching Physics content especially on Quantum Physics, Relativity and Astrophysics.**
+- Lives in **Pune, Maharashtra, India** but belongs to **Thane, Maharashtra, India**
+- Knows **English, Hindi and Marathi** and other languages as per,
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0204&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=shubham0204&count_private=true&show_icons=true&theme=light" alt="Shubham's github stats"/>
+## 🙂 Reach me at
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shubham0204&label=Profile%20views&color=0e75b6&style=flat"
-                     alt="shubham0204"/></p>
-                     
-                     
-
-### Latest Hit on Medium
-
-- [**MLP Mixer Is All You Need?**](https://towardsdatascience.com/mlp-mixer-is-all-you-need-20dbc7587fe4)
-- [**Kernels vs. Filters: Demystified**](https://pub.towardsai.net/kernels-vs-filters-demystified-1fd594e1c38d)
-- [**Grad-CAM: Camera For Your Model’s Decision**](https://towardsdatascience.com/grad-cam-camera-for-your-models-decision-1ef69aae8fe7)
-- [**Demystifying The Moore-Penrose Generalized Inverse**](https://www.cantorsparadise.com/demystifying-the-moore-penrose-generalized-inverse-a1b989a1dd49)
-
-## Reach me at
-
-- [Linktree Profile](https://linktr.ee/shubham0204)
 - [Google Chat](https://mail.google.com/chat) with email ID **equipintelligence@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
-- [Twitter](https://twitter.com/im_mobileML_dev)
 
-## Latest Repos and Projects 
+## 📱 Mobile ML Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=Age-Gender_Estimation_TF-Android)](https://github.com/anuraghazra/github-readme-stats)
+- [Deploying TF models on Heroku for Android](https://heartbeat.comet.ml/deploying-tf-models-on-heroku-for-android-apps-8068f8363978) ( [GitHub](https://github.com/shubham0204/TensorFlow_Model_Deployment_Heroku_Android) )
+- [Realtime Depth Estimation In Android]() ( [GitHub](https://github.com/shubham0204/Realtime_MiDaS_Depth_Estimation_Android) )
+- [MLKit Selfie Segmentation in Android](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba) ( [GitHub](https://github.com/shubham0204/MLKit_Selfie_Segmentation_Android) )
+- [Using FaceNet For On-Device Face Recognition With Android](https://towardsdatascience.com/using-facenet-for-on-device-face-recognition-with-android-f84e36e19761) ( [GitHub](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android) )
+- [Text2Summary Android](https://medium.com/@equipintelligence/introducing-text2summary-text-summarization-on-android-674b62419019) ( [GitHub](https://github.com/shubham0204/Text2Summary-Android) )
+- [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52) ( [GitHub](https://github.com/shubham0204/QLearning_With_FrozenLakeEnv_Android) )
+- [Hyperparameter Optimization With Genetic Algorithms in Kotlin](https://heartbeat.fritz.ai/hyperparameter-optimization-with-genetic-algorithms-in-kotlin-75e9c5a1e5ab) ( [GitHub](https://github.com/shubham0204/NN_GeneticAlgo_Optimization_Kotlin) )
+- [Exploring Random Forests In Light Of Kotlin](https://heartbeat.fritz.ai/exploring-random-forests-in-the-light-of-kotlin-250210793248) ( [GitHub](https://github.com/shubham0204/Decision_Tree_On_Android) )
+- [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f) ( [GitHub](https://github.com/shubham0204/Feedforward_Neural_Network_Kotlin) )
+- [Gaussian Naive Bayes ( for Iris Classification ) in Android](https://heartbeat.fritz.ai/implementing-the-gaussian-naive-bayes-classifier-in-android-67746b69d1b1) ( [GitHub](https://github.com/shubham0204/GaussianNaiveBayes_Android_App) )
+- [How I made Skinly for Melanoma Detection in Android](https://medium.com/dataseries/how-i-made-skinly-for-melanoma-detection-in-android-6ad00f0bd26d) ( [GitHub](https://github.com/shubham0204/Skinly_for_Melanoma) )
+- [Designing Decision Trees From Scratch on Android](https://medium.com/@equipintelligence/designing-decision-trees-from-scratch-on-android-68bf7ee0d01a) ( [GitHub](https://github.com/shubham0204/Decision_Tree_On_Android) )
+- [Text Classification in Android with TensorFlow](https://medium.com/dataseries/spam-classification-in-android-with-tensorflow-lite-cde417e81260) ( [GitHub](https://github.com/shubham0204/Spam_Classification_Android_Demo) )
+- [Sarcasm Detection using Word Embeddings in Android](https://medium.com/@equipintelligence/sarcasm-detection-using-word-embeddings-in-android-999a791d676a) ( [GitHub](https://github.com/shubham0204/Sarcaso_for_Android) )
+- [Hands-on With Multiple Linear Regression on Android](https://medium.com/@equipintelligence/hands-on-with-multiple-linear-regression-on-android-723a29e4f690)
+- [Bayes Text Classification in Kotlin for Android without TensorFlow](https://medium.com/predict/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d)
+- [Introducing TensorFlow Lite Android Support Library](https://towardsdatascience.com/tensorflow-lite-android-support-library-simply-ml-on-android-561402292c80)
+                 
+## ✍️ Stories On Medium
 
-[![ReadMe Card alt <<](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=QLearning_With_FrozenLakeEnv_Android)](https://github.com/anuraghazra/github-readme-stats)
+- [Empirical Distribution — Everything You Need To Know
+](https://towardsdatascience.com/understanding-empirical-distributions-ed131de5f3df)
+- [Human-In-The-Loop Systems — All You Need To Know](https://towardsdatascience.com/human-in-the-loop-systems-all-you-need-to-know-c260920b8acf)
+- [Deploying TF Models on Heroku for Android Apps](https://heartbeat.comet.ml/deploying-tf-models-on-heroku-for-android-apps-8068f8363978)
+- [Accessing App Usage History In Android](https://proandroiddev.com/accessing-app-usage-history-in-android-79c3af861ccf#6224)
+- [No, Kernels & Filters Are Not The Same](https://towardsdatascience.com/no-kernels-filters-are-not-the-same-b230ec192ac9)
+- [Deploying Pretrained TF Object Detection Models on Android](https://towardsdatascience.com/deploying-pretrained-tf-object-detection-models-on-android-25c3de92caab)
+- [Realtime Selfie Segmentation In Android With MLKit](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba)
+- [Grad-CAM: A Camera For Your Model’s Decision](https://towardsdatascience.com/grad-cam-camera-for-your-models-decision-1ef69aae8fe7)
+- [MLP Mixer Is All You Need?](https://towardsdatascience.com/mlp-mixer-is-all-you-need-20dbc7587fe4)
+- [Age + Gender Estimation in Android with TensorFlow](https://equipintelligence.medium.com/detecting-age-and-gender-with-tf-lite-on-android-33997eed6c25)
+- [Using FaceNet For On-Device Face Recognition With Android](https://towardsdatascience.com/using-facenet-for-on-device-face-recognition-with-android-f84e36e19761)
+- [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f)
+- [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52)
+- [Hyperparameter Optimization With Genetic Algorithms In Kotlin](https://heartbeat.fritz.ai/hyperparameter-optimization-with-genetic-algorithms-in-kotlin-75e9c5a1e5ab)
+- [Image Classification With TensorFlow 2.0 ( Without Keras )](https://becominghuman.ai/image-classification-with-tensorflow-2-0-without-keras-e6534adddab2)
+- [Get Started With TensorFlow 2.0 and Linear Regression](https://towardsdatascience.com/get-started-with-tensorflow-2-0-and-linear-regression-29b5dbd65977)
+- [Cityscape Image Segmentation With TensorFlow 2.0](https://towardsdatascience.com/cityscape-segmentation-with-tensorflow-2-0-b320b6605cbf)
+- [4 Awesome Ways Of Loading ML Data In Google Colab](https://towardsdatascience.com/4-awesome-ways-of-loading-ml-data-in-google-colab-9a5264c61966)
+- [Neural Implanting With AutoEncoders and TensorFlow](https://towardsdatascience.com/neural-implanting-with-autoencoders-and-tensorflow-9c2c7b532198)
+- [Colorizing B/W Images With GANs in TensorFlow](https://heartbeat.fritz.ai/colorizing-b-w-images-with-gans-in-tensorflow-f444f737db6c)
+- [Exploring Random Forests In Light Of Kotlin](https://heartbeat.fritz.ai/exploring-random-forests-in-the-light-of-kotlin-250210793248)
+- [Gaussian Naive Bayes ( for Iris Classification ) in Android](https://heartbeat.fritz.ai/implementing-the-gaussian-naive-bayes-classifier-in-android-67746b69d1b1)
+- [Sarcasm Detection using Word Embeddings in Android](https://medium.com/@equipintelligence/sarcasm-detection-using-word-embeddings-in-android-999a791d676a)
+- [Hands-on With Multiple Linear Regression on Android](https://medium.com/@equipintelligence/hands-on-with-multiple-linear-regression-on-android-723a29e4f690)
+- [Bayes Text Classification in Kotlin for Android without TensorFlow](https://medium.com/predict/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d)
+- [How I made Skinly for Melanoma Detection in Android](https://medium.com/dataseries/how-i-made-skinly-for-melanoma-detection-in-android-6ad00f0bd26d)
+- [Text Classification in Android with TensorFlow](https://medium.com/dataseries/spam-classification-in-android-with-tensorflow-lite-cde417e81260)
+- [Designing Decision Trees From Scratch on Android](https://medium.com/@equipintelligence/designing-decision-trees-from-scratch-on-android-68bf7ee0d01a)
+- [Introducing TensorFlow Lite Android Support Library](https://towardsdatascience.com/tensorflow-lite-android-support-library-simply-ml-on-android-561402292c80)
+- [Introducing Text2Summary: Text Summarization on Android](https://medium.com/@equipintelligence/introducing-text2summary-text-summarization-on-android-674b62419019)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham0204&repo=FaceRecognition_With_FaceNet_Android)](https://github.com/anuraghazra/github-readme-stats)
+### [Demystifying Mathematics - Shubham Panchal](https://medium.com/@equipintelligence/list/mathematics-demystified-7e4d1c18041f)
 
-## 📱 Mobile Machine Learning with Android & Kotlin
+- [Demystifying Monte Carlo Integration](https://www.cantorsparadise.com/demystifying-monto-carlo-integration-7c9bd0e37689)
+- [Demystifying Linear Independence](https://www.cantorsparadise.com/linear-independence-demystified-88235936722d)
+- [Demystifying Probability Distributions ( 1 / 3 )](https://www.cantorsparadise.com/demystifying-probability-distributions-1-2-6db4a3fd3a60)
+- [Demystifying Probability Distributions ( 2 / 3 )](https://equipintelligence.medium.com/demystifying-probability-distributions-2-3-ea4f5386113a)
+- [Demystifying The Moore-Penrose Generalized Inverse](https://www.cantorsparadise.com/demystifying-the-moore-penrose-generalized-inverse-a1b989a1dd49)
+- [Taylor Series And The Power Of Approximation](https://www.cantorsparadise.com/taylor-series-and-the-power-of-approximation-7d2c16596f89)
+- [Entropy In The World Of Computer Science](https://medium.com/swlh/entropy-in-the-world-of-computer-science-2bd736e48c58)
 
-> A collection of various ML algorithms implemented in Kotlin from scratch. These could be helpful while developing Android apps which need to process data with these ML algorithms.
+## Google Colab Notebooks - Tutorials
 
-👉 [Realtime Selfie Segmentation In Android With MLKit](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba) **[ ( GitHub ) ](https://github.com/shubham0204/MLKit_Selfie_Segmentation_Android)**
+- [Age + Gender Estimation in Android with TensorFlow](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android)
+- [Hyperparameter Optimization Using Keras Tuner API](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/Hyperparameter_Optimization_Using_KerasTuner.ipynb)
+- [Image Colorization With GANs](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/ImageColorization_With_GANs.ipynb)
+- [Chatbot using Seq2Seq LSTM models](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/ChatBot_With_Seq2Seq.ipynb).
+- [Neural Machine Translation (NMT) - Translating English sentences to French sentences](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/Neural_Machine_Translation_(_Eng_French_).ipynb).
+- [Neural Machine Translation (NMT) - Translating English sentences to Marathi sentences](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/Neural_Machine_Translation_(_Eng_Mar_).ipynb).
+- [Image Classification From Scratch With TensorFlow 2.0 **( Without Keras! )**](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/Image_Classification_TF2.ipynb)
+- [Cityscape Image Segmentation with TensorFlow 2.0 **( Without Keras! )** ](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/CityScape_Image_Segmentation.ipynb)
+- [Face Landmark Detection With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/Face_Landmark_Detection.ipynb)
+- [Neural Implanting With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/Neural_Implanting_With_TF.ipynb)
+- [Tweet Classification with MLP-Mixers ( TF-Keras )](https://www.kaggle.com/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) ( [Story On Medium](https://towardsdatascience.com/mlp-mixer-is-all-you-need-20dbc7587fe4) )
+- [From Paper To Keras: MobileNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/MobileNets_With_TensorFlow.ipynb)
+- [From Paper To Keras: DenseNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/DenseNets_With_TensorFlow.ipynb)
 
-👉 [Age + Gender Estimation in Android with TensorFlow](https://towardsdatascience.com/detecting-age-and-gender-with-tf-lite-on-android-33997eed6c25) **[  ( GitHub ) ](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android)**
 
-👉 [Gaussian Naive Bayes in Android : Iris Classification Problem](https://heartbeat.fritz.ai/implementing-the-gaussian-naive-bayes-classifier-in-android-67746b69d1b1) **[  ( GitHub ) ](https://github.com/shubham0204/GaussianNaiveBayes_Android_App)**
 
-👉  [Designing Decision Trees From Scratch on Android](https://becominghuman.ai/designing-decision-trees-from-scratch-on-android-68bf7ee0d01a) **[  ( GitHub ) ](https://github.com/shubham0204/Decision_Tree_On_Android/tree/master/decision_trees_kotlin)**
- 
-👉  [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f) **[  ( GitHub ) ](https://github.com/shubham0204/Feedforward_Neural_Network_Kotlin)**
 
-👉  [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52) **[  ( GitHub ) ](https://github.com/shubham0204/QLearning_With_FrozenLakeEnv_Android)**
 
-👉  [Hyperparameter Optimization With Genetic Algorithms In Kotlin](https://heartbeat.fritz.ai/hyperparameter-optimization-with-genetic-algorithms-in-kotlin-75e9c5a1e5ab) **[  ( GitHub ) ](https://github.com/shubham0204/NN_GeneticAlgo_Optimization_Kotlin)**
-
-👉  [Using FaceNet For On-Device Face Recognition With Android](https://towardsdatascience.com/using-facenet-for-on-device-face-recognition-with-android-f84e36e19761) **[  ( GitHub ) ](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android)**
- 
-👉  [Exploring Random Forests In Light Of Kotlin](https://heartbeat.fritz.ai/exploring-random-forests-in-the-light-of-kotlin-250210793248) **[  ( GitHub ) ](https://github.com/shubham0204/Decision_Tree_On_Android/tree/master/random_forests_kotlin)**
-
-👉  [Hands-on With Multiple Linear Regression on Android](https://becominghuman.ai/hands-on-with-multiple-linear-regression-on-android-723a29e4f690) **[  ( GitHub ) ](https://github.com/shubham0204/Linear_Regression_with_Kotlin_Android)**
-
-👉  [Bayes Text Classification in Kotlin for Android without TensorFlow](https://towardsdatascience.com/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d) **[  ( GitHub ) ](https://github.com/shubham0204/Bayes_Text_Classifier_with_Kotlin)**
-
-👉  [Introducing Text2Summary: Text Summarization on Android ( With TF-IDF )](https://towardsdatascience.com/spam-classification-in-android-with-tensorflow-lite-cde417e81260) **[  ( GitHub ) ](https://github.com/shubham0204/Text2Summary-Android)**
-
-> If you are facing issues with any of these resources here, fill out [this form](https://forms.gle/6dbLZdmnBZjE99Bx5) describing your issue.
