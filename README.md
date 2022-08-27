@@ -11,9 +11,7 @@
 <b>Android | TensorFlow | Mobile Machine Learning | Writes Blogs on Math, ML and Android | Developer ⮀ Researcher</b>
 </p>
 
-> ♥ [Support Developer - Buy me a ☕ coffee!](https://paypal.me/ShubhamPanchalDev)
-> 
-> Download my [Mini Portfolio](https://github.com/shubham0204/shubham0204/raw/master/Portfolio_mini.pdf)
+> ♥ [Support Developer](https://paypal.me/ShubhamPanchalDev)
 
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
 - I’m currently working on **various Android projects equipped with ML models**
@@ -32,7 +30,7 @@
 
 ## 🌐 Profiles
 
-- [Linktree ( Collection of all links)](https://linktr.ee/shubham0204)
+- [Linktree ( Collection of all links )](https://linktr.ee/shubham0204)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Medium](https://equipintelligence.medium.com)
 - [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
