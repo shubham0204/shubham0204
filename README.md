@@ -46,6 +46,7 @@
 
 ## 📱 Mobile ML Projects
 
+- [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
 - [Deploying TF models on Heroku for Android](https://heartbeat.comet.ml/deploying-tf-models-on-heroku-for-android-apps-8068f8363978) ( [GitHub](https://github.com/shubham0204/TensorFlow_Model_Deployment_Heroku_Android) )
 - [Realtime Depth Estimation In Android]() ( [GitHub](https://github.com/shubham0204/Realtime_MiDaS_Depth_Estimation_Android) )
 - [MLKit Selfie Segmentation in Android](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba) ( [GitHub](https://github.com/shubham0204/MLKit_Selfie_Segmentation_Android) )
@@ -66,6 +67,7 @@
                  
 ## ✍️ Stories On Medium
 
+- [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab)
 - [Empirical Distribution — Everything You Need To Know
 ](https://towardsdatascience.com/understanding-empirical-distributions-ed131de5f3df)
 - [Human-In-The-Loop Systems — All You Need To Know](https://towardsdatascience.com/human-in-the-loop-systems-all-you-need-to-know-c260920b8acf)
