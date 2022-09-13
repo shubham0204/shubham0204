@@ -104,6 +104,7 @@
 - [Demystifying Linear Independence](https://www.cantorsparadise.com/linear-independence-demystified-88235936722d)
 - [Demystifying Probability Distributions ( 1 / 3 )](https://www.cantorsparadise.com/demystifying-probability-distributions-1-2-6db4a3fd3a60)
 - [Demystifying Probability Distributions ( 2 / 3 )](https://equipintelligence.medium.com/demystifying-probability-distributions-2-3-ea4f5386113a)
+- [Demystifying Probability Distributions ( 3 / 3 )](https://www.cantorsparadise.com/demystifying-probability-distributions-3-3-c06382b49e34)
 - [Demystifying The Moore-Penrose Generalized Inverse](https://www.cantorsparadise.com/demystifying-the-moore-penrose-generalized-inverse-a1b989a1dd49)
 - [Taylor Series And The Power Of Approximation](https://www.cantorsparadise.com/taylor-series-and-the-power-of-approximation-7d2c16596f89)
 - [Entropy In The World Of Computer Science](https://medium.com/swlh/entropy-in-the-world-of-computer-science-2bd736e48c58)
