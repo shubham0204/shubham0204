@@ -11,7 +11,7 @@
 <b>Android | TensorFlow | Mobile Machine Learning | Writes Blogs on Math, ML and Android | Developer ⮀ Researcher</b>
 </p>
 
-> ♥ [Support Developer](https://paypal.me/ShubhamPanchalDev)
+> ♥ [Support Developer](https://paypal.me/ShubhamPanchal0204)
 
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
 - I’m currently working on **various Android projects equipped with ML models**
