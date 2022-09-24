@@ -46,7 +46,7 @@
 
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
 - [Deploying TF models on Heroku for Android](https://heartbeat.comet.ml/deploying-tf-models-on-heroku-for-android-apps-8068f8363978) ( [GitHub](https://github.com/shubham0204/TensorFlow_Model_Deployment_Heroku_Android) )
-- [Realtime Depth Estimation In Android]() ( [GitHub](https://github.com/shubham0204/Realtime_MiDaS_Depth_Estimation_Android) )
+- Realtime Depth Estimation In Android ( [GitHub](https://github.com/shubham0204/Realtime_MiDaS_Depth_Estimation_Android) )
 - [MLKit Selfie Segmentation in Android](https://proandroiddev.com/realtime-selfie-segmentation-in-android-with-mlkit-38637c8502ba) ( [GitHub](https://github.com/shubham0204/MLKit_Selfie_Segmentation_Android) )
 - [Using FaceNet For On-Device Face Recognition With Android](https://towardsdatascience.com/using-facenet-for-on-device-face-recognition-with-android-f84e36e19761) ( [GitHub](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android) )
 - [Text2Summary Android](https://medium.com/@equipintelligence/introducing-text2summary-text-summarization-on-android-674b62419019) ( [GitHub](https://github.com/shubham0204/Text2Summary-Android) )
