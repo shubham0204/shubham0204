@@ -65,6 +65,7 @@
                  
 ## ✍️ Stories On Medium
 
+- [Building a Simple Document Scanner in Android](https://medium.com/geekculture/building-a-simple-document-scanner-in-android-1b4b11b3e407)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab)
 - [Empirical Distribution — Everything You Need To Know
 ](https://towardsdatascience.com/understanding-empirical-distributions-ed131de5f3df)
