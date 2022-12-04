@@ -30,7 +30,7 @@
 
 ## 🌐 Profiles
 
-- [Linktree ( Collection of all links )](https://linktr.ee/shubham0204)
+- [Website](https://shubham0204.github.io)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Medium](https://equipintelligence.medium.com)
 - [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
@@ -126,8 +126,4 @@
 - [Tweet Classification with MLP-Mixers ( TF-Keras )](https://www.kaggle.com/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) ( [Story On Medium](https://towardsdatascience.com/mlp-mixer-is-all-you-need-20dbc7587fe4) )
 - [From Paper To Keras: MobileNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/MobileNets_With_TensorFlow.ipynb)
 - [From Paper To Keras: DenseNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/DenseNets_With_TensorFlow.ipynb)
-
-
-
-
 
