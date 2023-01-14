@@ -66,6 +66,7 @@
                  
 ## ✍️ Stories On Medium
 
+- [Creating Desktop Apps For TensorFlow Models With Qt](https://medium.com/geekculture/creating-desktop-apps-for-tensorflow-with-qt-7b23d57c6557)
 - [Building a Simple Document Scanner in Android](https://medium.com/geekculture/building-a-simple-document-scanner-in-android-1b4b11b3e407)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab)
 - [Empirical Distribution — Everything You Need To Know
