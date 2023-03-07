@@ -104,6 +104,7 @@
 
 ### [Demystifying Mathematics - Shubham Panchal](https://medium.com/@equipintelligence/list/mathematics-demystified-7e4d1c18041f)
 
+- [Kernels: Everything You Need to Know](https://towardsdatascience.com/kernels-everything-you-need-to-know-f5d255d95785)
 - [Principal Component Analysis: Everything You Need To Know](https://towardsdatascience.com/principal-component-analysis-everything-you-need-to-know-5f834c9eaa83)
 - [Demystifying Monte Carlo Integration](https://www.cantorsparadise.com/demystifying-monto-carlo-integration-7c9bd0e37689)
 - [Demystifying Linear Independence](https://www.cantorsparadise.com/linear-independence-demystified-88235936722d)
