@@ -66,6 +66,7 @@
                  
 ## ✍️ Stories On Medium
 
+- [Chaquopy: Using Python In Android Apps](https://proandroiddev.com/chaquopy-using-python-in-android-apps-dd5177c9ab6b)
 - [Using Websockets To Run Terminal Commands From Android Apps](https://medium.com/gitconnected/using-websockets-to-run-terminal-commands-from-android-apps-69f42b1d0b40)
 - [Creating Desktop Apps For TensorFlow Models With Qt](https://medium.com/geekculture/creating-desktop-apps-for-tensorflow-with-qt-7b23d57c6557)
 - [Building a Simple Document Scanner in Android](https://medium.com/geekculture/building-a-simple-document-scanner-in-android-1b4b11b3e407)
