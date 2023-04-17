@@ -1,9 +1,4 @@
 
-<p align="center">
-  
-  <img src="https://github.com/shubham0204/shubham0204/blob/master/banner_image.jpg?raw=true"/>
-
-</p>
 
 <h1 align="center">Hi! I'm Shubham Panchal</h1>
 
@@ -22,6 +17,11 @@
 - Education: Bachelors in Computer Engineering from [PICT, Pune](https://pict.edu)
 - Lives in **Pune, Maharashtra, India** but belongs to **Thane, Maharashtra, India**
 - Knows **English, Hindi and Marathi**
+
+## GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubham0204&count_private=true&show_icons=true&include_all_commits=true" alt="Shubham Panchal | Stats" />
+
 
 ## 🙂 Reach me at
 
