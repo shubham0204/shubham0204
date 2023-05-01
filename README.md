@@ -66,6 +66,7 @@
                  
 ## ✍️ Stories On Medium
 
+- [`glove-android`: Using GloVe Word Embeddings for NLP In Android](https://medium.com/proandroiddev/glove-android-using-glove-word-embeddings-for-nlp-in-android-b7e412cf5de6)
 - [Chaquopy: Using Python In Android Apps](https://proandroiddev.com/chaquopy-using-python-in-android-apps-dd5177c9ab6b)
 - [Using Websockets To Run Terminal Commands From Android Apps](https://medium.com/gitconnected/using-websockets-to-run-terminal-commands-from-android-apps-69f42b1d0b40)
 - [Creating Desktop Apps For TensorFlow Models With Qt](https://medium.com/geekculture/creating-desktop-apps-for-tensorflow-with-qt-7b23d57c6557)
