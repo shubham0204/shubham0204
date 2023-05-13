@@ -3,17 +3,15 @@
 <h1 align="center">Hi! I'm Shubham Panchal</h1>
 
 <p align="center">
-<b>Android | TensorFlow | Mobile Machine Learning | Writes Blogs on Math, ML and Android | Developer ⮀ Researcher</b>
+<b>Android | Mobile Machine Learning | Writes Blogs on Math, ML and Android | Developer ⮀ Researcher</b>
 </p>
 
 > ♥ [Support Developer](https://paypal.me/ShubhamPanchal0204)
 
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
-- I’m currently working on **various Android projects equipped with ML models**
-- I’m currently learning **TensorFlow and Android** in addition to **Linear Algebra, Probability, Statistics and Optimization**
+- I’m currently learning **PyTorch, JAX and Rust**
 - Ask me **How to integrate various TF models with Android?** or **How to add a ML-based feature in an Android app**
-- Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions**
-- Fun fact: **I'm a foodie. Also, I love reading and watching Physics content especially on Quantum Physics, Relativity and Astrophysics.**
+- Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions, active blogger on Medium**
 - Education: Bachelors in Computer Engineering from [PICT, Pune](https://pict.edu)
 - Lives in **Pune, Maharashtra, India** but belongs to **Thane, Maharashtra, India**
 - Knows **English, Hindi and Marathi**
