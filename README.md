@@ -23,7 +23,7 @@
 
 ## 🙂 Reach me at
 
-- [Google Chat](https://mail.google.com/chat) with email ID **equipintelligence@gmail.com**
+- [Google Chat](https://mail.google.com/chat) with email ID **panchalshubhamdev**
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 
 ## 🌐 Profiles
