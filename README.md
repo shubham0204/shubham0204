@@ -6,7 +6,7 @@
 <b>Android | Mobile Machine Learning | Writes Blogs on Math, ML and Android | Developer ⮀ Researcher</b>
 </p>
 
-> ♥ [Support Developer](https://paypal.me/ShubhamPanchal0204)
+> 1:1 Mentoring on ML, Math or Android development -> https://topmate.io/shubham_panchal
 
 - **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
 - I’m currently learning **PyTorch, JAX and Rust**
