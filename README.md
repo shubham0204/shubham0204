@@ -64,6 +64,7 @@
                  
 ## ✍️ Stories On Medium
 
+- [Managing Deep Learning Models Easily With TOML Configurations](https://medium.com/towards-data-science/managing-deep-learning-models-easily-with-toml-configurations-fb680b9deabe)
 - [`glove-android`: Using GloVe Word Embeddings for NLP In Android](https://medium.com/proandroiddev/glove-android-using-glove-word-embeddings-for-nlp-in-android-b7e412cf5de6)
 - [Chaquopy: Using Python In Android Apps](https://proandroiddev.com/chaquopy-using-python-in-android-apps-dd5177c9ab6b)
 - [Using Websockets To Run Terminal Commands From Android Apps](https://medium.com/gitconnected/using-websockets-to-run-terminal-commands-from-android-apps-69f42b1d0b40)
