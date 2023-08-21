@@ -3,17 +3,15 @@
 <h1 align="center">Hi! I'm Shubham Panchal</h1>
 
 <p align="center">
-<b>Android | Mobile Machine Learning | Writes Blogs on Math, ML and Android | Developer ⮀ Researcher</b>
+<b>Android | Mobile Machine Learning | Writes Blogs on Math, ML and Android</b>
 </p>
 
 > 1:1 Mentoring on ML, Math or Android development -> https://topmate.io/shubham_panchal
 
-- **Open For Android + ML ( TensorFlow ) Freelancing Projects as well as Technical Writing projects**
-- I’m currently learning **PyTorch, JAX and Rust**
-- Ask me **How to integrate various TF models with Android?** or **How to add a ML-based feature in an Android app**
-- Tag Line: **Curious, hates overfitting while learning machine learning, loves to help people by answering their questions, active blogger on Medium**
-- Education: Bachelors in Computer Engineering from [PICT, Pune](https://pict.edu)
-- Lives in **Pune, Maharashtra, India** but belongs to **Thane, Maharashtra, India**
+- **Open For Android or ML-based freelancing projects or internship opportunities**
+- I'm exploring backend development with FastAPI, cross-platform app development with Compose Multiplatform (part of KMM), PyTorch and using Rust for deployment of ML models.
+- Studying Bachelors in Computer Engineering from [PICT, Pune](https://pict.edu)
+- Lives in **Pune, Maharashtra, India**
 - Knows **English, Hindi and Marathi**
 
 ## GitHub Stats
