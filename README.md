@@ -11,8 +11,6 @@
 - **Open For Android or ML-based freelancing projects or internship opportunities**
 - I'm exploring backend development with FastAPI, cross-platform app development with Compose Multiplatform (part of KMM), PyTorch and using Rust for deployment of ML models.
 - Studying Bachelors in Computer Engineering from [PICT, Pune](https://pict.edu)
-- Lives in **Pune, Maharashtra, India**
-- Knows **English, Hindi and Marathi**
 
 ## 🙂 Reach me at
 
