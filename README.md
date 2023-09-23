@@ -52,6 +52,11 @@
 - [Hands-on With Multiple Linear Regression on Android](https://medium.com/@equipintelligence/hands-on-with-multiple-linear-regression-on-android-723a29e4f690)
 - [Bayes Text Classification in Kotlin for Android without TensorFlow](https://medium.com/predict/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d)
 - [Introducing TensorFlow Lite Android Support Library](https://towardsdatascience.com/tensorflow-lite-android-support-library-simply-ml-on-android-561402292c80)
+
+## Android Projects
+
+- [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
+- [MedSwift](https://github.com/Advait0801/PBL_23/tree/android)
                  
 ## ✍️ Stories On Medium
 
