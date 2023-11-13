@@ -1,4 +1,4 @@
-[banner](github_banner.png)
+![banner](github_banner.png)
 
 <h1 align="left">Shubham Panchal</h1>
 
