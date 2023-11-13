@@ -1,4 +1,6 @@
-![banner](https://github.com/shubham0204/shubham0204/blob/cdb8c151813b10c07f99b6c2ae2602370a669e13/github_banner.png)
+<p>
+    <img src="github_banner.png" width="220" height="240" />
+</p>
 
 <h1 align="left">Shubham Panchal</h1>
 
