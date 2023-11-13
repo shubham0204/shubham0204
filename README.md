@@ -1,12 +1,6 @@
+[banner](github_banner.png)
 
-
-<h1 align="center">Hi! I'm Shubham Panchal</h1>
-
-<p align="center">
-<b>Android | Mobile Machine Learning | Writes Blogs on Math, ML and Android</b>
-</p>
-
-> 1:1 Mentoring on ML, Math or Android development -> https://topmate.io/shubham_panchal
+<h1 align="left">Shubham Panchal</h1>
 
 - **Open For Android or ML-based freelancing projects or internship opportunities**
 - I'm exploring backend development with FastAPI, cross-platform app development with Compose Multiplatform (part of KMM), PyTorch and using Rust for deployment of ML models.
