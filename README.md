@@ -1,6 +1,5 @@
-<p>
-    <img src="github_banner.png" width="220" height="240" />
-</p>
+
+![github_banner](https://github.com/shubham0204/shubham0204/assets/41076823/613fdb60-7bd7-4937-8036-2c392fe0ab11)
 
 <h1 align="left">Shubham Panchal</h1>
 
