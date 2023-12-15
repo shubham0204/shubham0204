@@ -38,7 +38,7 @@
 - [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52) ( [GitHub](https://github.com/shubham0204/QLearning_With_FrozenLakeEnv_Android) )
 - [Hyperparameter Optimization With Genetic Algorithms in Kotlin](https://heartbeat.fritz.ai/hyperparameter-optimization-with-genetic-algorithms-in-kotlin-75e9c5a1e5ab) ( [GitHub](https://github.com/shubham0204/NN_GeneticAlgo_Optimization_Kotlin) )
 - [Exploring Random Forests In Light Of Kotlin](https://heartbeat.fritz.ai/exploring-random-forests-in-the-light-of-kotlin-250210793248) ( [GitHub](https://github.com/shubham0204/Decision_Tree_On_Android) )
-- [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f) ( [GitHub](https://github.com/shubham0204/Feedforward_Neural_Network_Kotlin) )
+- Coding Feed-Forward Neural Networks in Kotlin (or Android) ( [GitHub](https://github.com/shubham0204/Feedforward_Neural_Network_Kotlin) )
 - [Gaussian Naive Bayes ( for Iris Classification ) in Android](https://heartbeat.fritz.ai/implementing-the-gaussian-naive-bayes-classifier-in-android-67746b69d1b1) ( [GitHub](https://github.com/shubham0204/GaussianNaiveBayes_Android_App) )
 - [How I made Skinly for Melanoma Detection in Android](https://medium.com/dataseries/how-i-made-skinly-for-melanoma-detection-in-android-6ad00f0bd26d) ( [GitHub](https://github.com/shubham0204/Skinly_for_Melanoma) )
 - [Designing Decision Trees From Scratch on Android](https://medium.com/@equipintelligence/designing-decision-trees-from-scratch-on-android-68bf7ee0d01a) ( [GitHub](https://github.com/shubham0204/Decision_Tree_On_Android) )
