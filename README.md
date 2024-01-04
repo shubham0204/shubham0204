@@ -27,6 +27,12 @@
 - [Android + ML freelance developer] at [ClearSky | Edge Ai](https://www.linkedin.com/company/clearsky-ai/)
 - [Android Development Intern] at [AjnaLens](https://www.ajnalens.com)
 
+## Rust Projects
+
+- [text-predictor-android](https://github.com/shubham0204/text-predictor-android)
+- [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs)
+- [postagger.rs](https://github.com/shubham0204/postagger.rs)
+
 ## 📱 Mobile ML Projects
 
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
