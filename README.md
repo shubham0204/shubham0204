@@ -27,11 +27,13 @@
 - [Android + ML freelance developer] at [ClearSky | Edge Ai](https://www.linkedin.com/company/clearsky-ai/)
 - [Android Development Intern] at [AjnaLens](https://www.ajnalens.com)
 
-## Rust Projects
+## C/C++/Rust Projects
 
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android)
 - [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs)
 - [postagger.rs](https://github.com/shubham0204/postagger.rs)
+- [glove.c](https://github.com/shubham0204/glove.c)
+- `pq.rs` (Product Quantization in Rust, coming soon ...)
 
 ## 📱 Mobile ML Projects
 
