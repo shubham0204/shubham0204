@@ -5,7 +5,6 @@
 
 - **Open For Android or ML-based freelancing projects or internship opportunities**
 - I'm exploring backend development with FastAPI, cross-platform app development with Compose Multiplatform (part of KMM), PyTorch and using Rust for deployment of ML models.
-- Studying Bachelors in Computer Engineering from [PICT, Pune](https://pict.edu)
 
 ## 🙂 Reach me at
 
@@ -21,11 +20,6 @@
 - [Leetcode](https://leetcode.com/shubham0204)
 
 <a href="https://stackoverflow.com/users/13546426/shubham-panchal"><img src="https://stackoverflow.com/users/flair/13546426.png" width="208" height="58" alt="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-## 🧑‍💻 Work Experience
-
-- [Android + ML freelance developer] at [ClearSky | Edge Ai](https://www.linkedin.com/company/clearsky-ai/)
-- [Android Development Intern] at [AjnaLens](https://www.ajnalens.com)
 
 ## C/C++/Rust Projects
 
