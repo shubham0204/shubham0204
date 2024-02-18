@@ -8,7 +8,7 @@
 
 ## 🙂 Reach me at
 
-- [Google Chat](https://mail.google.com/chat) with email ID **panchalshubhamdev@gmail.com**
+- Send a message on [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 
 ## 🌐 Profiles
@@ -17,7 +17,7 @@
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Medium](https://equipintelligence.medium.com)
 - [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
-- [Leetcode](https://leetcode.com/shubham0204)
+- [Topmate](https://topmate.io/shubham_panchal)
 
 <a href="https://stackoverflow.com/users/13546426/shubham-panchal"><img src="https://stackoverflow.com/users/flair/13546426.png" width="208" height="58" alt="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
