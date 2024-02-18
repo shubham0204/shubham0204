@@ -4,7 +4,6 @@
 <h1 align="left">Shubham Panchal</h1>
 
 - **Open For Android or ML-based freelancing projects or internship opportunities**
-- I'm exploring backend development with FastAPI, cross-platform app development with Compose Multiplatform (part of KMM), PyTorch and using Rust for deployment of ML models.
 
 ## 🙂 Reach me at
 
@@ -21,16 +20,16 @@
 
 <a href="https://stackoverflow.com/users/13546426/shubham-panchal"><img src="https://stackoverflow.com/users/flair/13546426.png" width="208" height="58" alt="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-## C/C++/Rust Projects
+## Rust Projects
 
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android)
 - [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs)
 - [postagger.rs](https://github.com/shubham0204/postagger.rs)
-- [glove.c](https://github.com/shubham0204/glove.c)
-- `pq.rs` (Product Quantization in Rust, coming soon ...)
+- [pq.rs](https://github.com/shubham0204/pq.rs)
 
 ## 📱 Mobile ML Projects
 
+- [Depth-Anything Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
 - [Deploying TF models on Heroku for Android](https://heartbeat.comet.ml/deploying-tf-models-on-heroku-for-android-apps-8068f8363978) ( [GitHub](https://github.com/shubham0204/TensorFlow_Model_Deployment_Heroku_Android) )
 - Realtime Depth Estimation In Android ( [GitHub](https://github.com/shubham0204/Realtime_MiDaS_Depth_Estimation_Android) )
