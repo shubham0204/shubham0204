@@ -27,7 +27,13 @@
 - [postagger.rs](https://github.com/shubham0204/postagger.rs)
 - [pq.rs](https://github.com/shubham0204/pq.rs)
 
-## 📱 Mobile ML Projects
+## Backend Projects
+
+- [Recruiting/Shortlisting CVs with OpenAI's API (FastAPI)](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend)
+- [blogpost-backend (FastAPI)](https://github.com/shubham0204/blogpost-backend)
+- [INC-DBMS-Project (Ktor)](https://github.com/Advait0801/INC-DBMS-Project/tree/backend)
+
+## Mobile ML Projects
 
 - [Depth-Anything Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
@@ -54,7 +60,7 @@
 - [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
 - [MedSwift](https://github.com/Advait0801/PBL_23/tree/android)
                  
-## ✍️ Stories On Medium
+## Stories On Medium
 
 - [On-Device Machine Learning In Android: Frameworks and Ecosystem](https://proandroiddev.com/on-device-machine-learning-in-android-frameworks-and-ecosystem-888bc42a1d21#9d2f-9c8d5ba90769)
 - [Using C/C++ in Android: A Comprehensive Guide For Beginners](https://proandroiddev.com/using-c-c-in-android-a-comprehensive-guide-for-beginners-8a870cf3dba6)
