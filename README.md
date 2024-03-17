@@ -26,12 +26,20 @@
 - [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs)
 - [postagger.rs](https://github.com/shubham0204/postagger.rs)
 - [pq.rs](https://github.com/shubham0204/pq.rs)
+- diff-tool.rs
 
 ## Backend Projects
 
 - [Recruiting/Shortlisting CVs with OpenAI's API (FastAPI)](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend)
 - [blogpost-backend (FastAPI)](https://github.com/shubham0204/blogpost-backend)
 - [INC-DBMS-Project (Ktor)](https://github.com/Advait0801/INC-DBMS-Project/tree/backend)
+
+## Practical DSA Projects
+
+- [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
+- [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
+- `full-text-search`
+- `diff-tool.rs`
 
 ## Mobile ML Projects
 
