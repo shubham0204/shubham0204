@@ -26,7 +26,7 @@
 - [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs)
 - [postagger.rs](https://github.com/shubham0204/postagger.rs)
 - [pq.rs](https://github.com/shubham0204/pq.rs)
-- diff-tool.rs
+- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs)
 
 ## Backend Projects
 
@@ -39,7 +39,7 @@
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
 - [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
 - `full-text-search`
-- `diff-tool.rs`
+- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
 
 ## Mobile ML Projects
 
