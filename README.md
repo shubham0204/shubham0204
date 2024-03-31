@@ -38,7 +38,7 @@
 
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
 - [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
-- `full-text-search`
+- [full-text-search](https://github.com/shubham0204/full-text-search) (Inverted Index)
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
 
 ## Mobile ML Projects
