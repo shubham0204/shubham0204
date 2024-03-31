@@ -20,7 +20,7 @@
 
 <a href="https://stackoverflow.com/users/13546426/shubham-panchal"><img src="https://stackoverflow.com/users/flair/13546426.png" width="208" height="58" alt="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-## Rust Projects
+## Rust
 
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android)
 - [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs)
@@ -28,20 +28,20 @@
 - [pq.rs](https://github.com/shubham0204/pq.rs)
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs)
 
-## Backend Projects
+## Backend
 
 - [Recruiting/Shortlisting CVs with OpenAI's API (FastAPI)](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend)
 - [blogpost-backend (FastAPI)](https://github.com/shubham0204/blogpost-backend)
 - [INC-DBMS-Project (Ktor)](https://github.com/Advait0801/INC-DBMS-Project/tree/backend)
 
-## Practical DSA Projects
+## Data Structures / Algorithms
 
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
 - [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
 - [full-text-search](https://github.com/shubham0204/full-text-search) (Inverted Index)
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
 
-## Mobile ML Projects
+## Mobile ML
 
 - [Depth-Anything Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
@@ -63,12 +63,12 @@
 - [Bayes Text Classification in Kotlin for Android without TensorFlow](https://medium.com/predict/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d)
 - [Introducing TensorFlow Lite Android Support Library](https://towardsdatascience.com/tensorflow-lite-android-support-library-simply-ml-on-android-561402292c80)
 
-## Android Projects
+## Android
 
 - [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
 - [MedSwift](https://github.com/Advait0801/PBL_23/tree/android)
                  
-## Stories On Medium
+## Stories
 
 - [On-Device Machine Learning In Android: Frameworks and Ecosystem](https://proandroiddev.com/on-device-machine-learning-in-android-frameworks-and-ecosystem-888bc42a1d21#9d2f-9c8d5ba90769)
 - [Using C/C++ in Android: A Comprehensive Guide For Beginners](https://proandroiddev.com/using-c-c-in-android-a-comprehensive-guide-for-beginners-8a870cf3dba6)
