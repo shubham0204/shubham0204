@@ -141,3 +141,8 @@
 - [From Paper To Keras: MobileNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/MobileNets_With_TensorFlow.ipynb)
 - [From Paper To Keras: DenseNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/DenseNets_With_TensorFlow.ipynb)
 
+## Spotlight
+
+- [Age + Gender Estimation in Android with TensorFlow](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android) used in [Realtime Age and Gender estimation using MLKit and Tensor Flow Android Studio | Visitor Analysis](https://youtu.be/_o_OFkZnK_8?feature=shared) YouTube video by [The Mobile Dev](https://www.youtube.com/@themobiledev)
+- Notebook [Tweet Classification With MLP-Mixers ( TF-Keras ](https://www.kaggle.com/code/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) referred by the paper [Distinguish risk communication and crisis communication based on deep learning model](https://pubs.aip.org/aip/acp/article/2927/1/060019/3279269/Distinguish-risk-communication-and-crisis)
+
