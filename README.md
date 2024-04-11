@@ -147,4 +147,17 @@
 
 - [Age + Gender Estimation in Android with TensorFlow](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android) used in [Realtime Age and Gender estimation using MLKit and Tensor Flow Android Studio | Visitor Analysis](https://youtu.be/_o_OFkZnK_8?feature=shared) YouTube video by [The Mobile Dev](https://www.youtube.com/@themobiledev)
 - Notebook [Tweet Classification With MLP-Mixers ( TF-Keras ](https://www.kaggle.com/code/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) referred by the paper [Distinguish risk communication and crisis communication based on deep learning model](https://pubs.aip.org/aip/acp/article/2927/1/060019/3279269/Distinguish-risk-communication-and-crisis)
+- 
+## Pull Requests
+
+- [`handtracking` Android example to `victordibia/handtracking`](https://github.com/victordibia/handtracking/pull/71)
+- [depth-estimation Android sample to `SunitRoy2703/Tensorflow-lite-kotlin-samples`](https://github.com/SunitRoy2703/Tensorflow-lite-kotlin-samples/pull/1)
+- [air_drawing demo (a sample for hand landmark detection solution) to `googlesamples/mediapipe`](https://github.com/googlesamples/mediapipe/pull/82)
+- [script for building Debian package to `ataractic/libcfg`](https://github.com/ataractic/libcfg/pull/4)
+- [article `How to Integrate Firebase Authentication with the Ktor Auth Feature` to `mjovanc/awesome-ktor`](https://github.com/mjovanc/awesome-ktor/pull/12)
+- [multiple Kotlin libraries like `kotlindl`, `dotenv-kotlin`, `multik` etc. to `mcxiaoke/awesome-kotlin`](https://github.com/mcxiaoke/awesome-kotlin/pull/115)
+- [Android demo for `LiheYoung/Depth-Anything`](https://github.com/LiheYoung/Depth-Anything/pull/92)
+- [Rust ML frameworks to `josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning/pull/977)
+- [Corrected Android sample code in `README.md` of `codeandtheory/YCharts`](https://github.com/codeandtheory/YCharts/pull/160)
+- [Added Mediapipe and ExecuTorch frameworks to `merveenoyan/awesome-osml-for-devs`](https://github.com/merveenoyan/awesome-osml-for-devs/pull/1)
 
