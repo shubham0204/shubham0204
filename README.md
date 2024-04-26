@@ -3,7 +3,8 @@
 
 <h1 align="left">Shubham Panchal</h1>
 
-- **Open For Android or ML-based freelancing projects or internship opportunities**
+> [!NOTE]  
+> Open for Android or ML-based freelancing projects, internship opportunities or technical blogging
 
 ## 🙂 Reach me at
 
