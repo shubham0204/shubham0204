@@ -25,13 +25,10 @@
 ## Rust
 
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android)
-- [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs)
-- [postagger.rs](https://github.com/shubham0204/postagger.rs)
+- [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs) ![tfidf-text-summarizer downloads](https://img.shields.io/crates/d/tfidf-text-summarizer)
+- [postagger.rs](https://github.com/shubham0204/postagger.rs) ![postagger downloads](https://img.shields.io/crates/d/postagger)
 - [pq.rs](https://github.com/shubham0204/pq.rs)
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs)
-
-![postagger downloads](https://img.shields.io/crates/d/postagger)
-![tfidf-text-summarizer downloads](https://img.shields.io/crates/d/tfidf-text-summarizer)
 
 ## Backend
 
