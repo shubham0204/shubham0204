@@ -4,15 +4,15 @@
 <h1 align="left">Shubham Panchal</h1>
 
 > [!NOTE]  
-> Open for Android or ML-based freelancing projects, internship opportunities or technical blogging
+> Open for Android or ML-based projects, internship opportunities or technical blogging
 
-## 🙂 Reach me at
+## Reach me at
 
 - Send a message on [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Reddit](https://www.reddit.com/user/shubham0204_dev/)
 
-## 🌐 Profiles
+## Profiles
 
 - [Website](https://shubham0204.github.io)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
@@ -20,8 +20,6 @@
 - [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
 - [Topmate](https://topmate.io/shubham_panchal)
 - [Linktree (Link Aggregator)](https://linktr.ee/shubham0204)
-
-<a href="https://stackoverflow.com/users/13546426/shubham-panchal"><img src="https://stackoverflow.com/users/flair/13546426.png" width="208" height="58" alt="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shubham Panchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Rust
 
