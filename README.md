@@ -31,6 +31,10 @@
 - [pq.rs](https://github.com/shubham0204/pq.rs)
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs)
 
+## Web
+
+- [WASM-JS-Algorithms](https://github.com/shubham0204/WASM-JS-Algorithms)
+
 ## Backend
 
 - [Recruiting/Shortlisting CVs with OpenAI's API (FastAPI)](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend)
