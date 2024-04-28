@@ -25,15 +25,16 @@
 
 ## Rust
 
-- [text-predictor-android](https://github.com/shubham0204/text-predictor-android)
-- [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs) ![tfidf-text-summarizer downloads](https://img.shields.io/crates/d/tfidf-text-summarizer)
-- [postagger.rs](https://github.com/shubham0204/postagger.rs) ![postagger downloads](https://img.shields.io/crates/d/postagger)
-- [pq.rs](https://github.com/shubham0204/pq.rs)
-- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs)
+- [text-predictor-android](https://github.com/shubham0204/text-predictor-android): Next word prediction and word auto-complete for Android - with the power of Rust 
+- [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs) ![tfidf-text-summarizer downloads](https://img.shields.io/crates/d/tfidf-text-summarizer): Simple, efficient and cross-platform TFIDF-based text summarizer in Rust
+- [postagger.rs](https://github.com/shubham0204/postagger.rs) ![postagger downloads](https://img.shields.io/crates/d/postagger): NLTK inspired Parts-of-Speech Tagger (Perceptron Tagger) in Rust
+- [pq.rs](https://github.com/shubham0204/pq.rs): Pure Rust implementation of Product Quantization for Approximate Nearest Neighbor Search
+- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs): A simple terminal-based diff tool written in Rust
 
 ## Web
 
-- [WASM-JS-Algorithms](https://github.com/shubham0204/WASM-JS-Algorithms)
+- [shubham0204.github.io](https://github.com/shubham0204/shubham0204.github.io): My portfolio built with HTML 5, CSS and Bootstrap 5.3
+- [WASM-JS-Algorithms](https://github.com/shubham0204/WASM-JS-Algorithms): Implementation of various algorithms in WebAssembly and vanilla Javascript
 
 ## Backend
 
