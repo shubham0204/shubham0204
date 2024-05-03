@@ -3,9 +3,6 @@
 
 <h1 align="left">Shubham Panchal</h1>
 
-> [!NOTE]  
-> Open for Android or ML-based projects, internship opportunities or technical blogging
-
 ## Reach me at
 
 - Send a message on [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com)
@@ -74,7 +71,7 @@
 ### Android
 
 - [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
-- [MedSwift](https://github.com/Advait0801/PBL_23/tree/android)
+- [DistilBert](https://github.com/shubham0204/DistilBert)
                  
 ## Blogs
 
