@@ -76,7 +76,7 @@
 ## Blogs
 
 - [WebAssembly: Everything You Need To Know](https://levelup.gitconnected.com/webassembly-everything-you-need-to-know-d1eb0a162f20)
-- [On-Device Machine Learning In Android: Frameworks and Ecosystem](https://proandroiddev.com/on-device-machine-learning-in-android-frameworks-and-ecosystem-888bc42a1d21#9d2f-9c8d5ba90769)
+- [On-Device Machine Learning In Android: Frameworks and Ecosystem](https://proandroiddev.com/on-device-machine-learning-in-android-frameworks-and-ecosystem-888bc42a1d21)
 - [Using C/C++ in Android: A Comprehensive Guide For Beginners](https://proandroiddev.com/using-c-c-in-android-a-comprehensive-guide-for-beginners-8a870cf3dba6)
 - [Building A Cross-Platform TFIDF Text Summarizer In Rust](https://towardsdatascience.com/building-a-cross-platform-tfidf-text-summarizer-in-rust-7b05938f4507)
 - [Managing Deep Learning Models Easily With TOML Configurations](https://medium.com/towards-data-science/managing-deep-learning-models-easily-with-toml-configurations-fb680b9deabe)
