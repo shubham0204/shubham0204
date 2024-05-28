@@ -48,6 +48,7 @@
 
 ### Mobile ML
 
+- [On-Device RAG in Android for Document Q&A](https://github.com/shubham0204/Android-Document-QA)
 - [Depth-Anything Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
 - [Deploying TF models on Heroku for Android](https://heartbeat.comet.ml/deploying-tf-models-on-heroku-for-android-apps-8068f8363978) ( [GitHub](https://github.com/shubham0204/TensorFlow_Model_Deployment_Heroku_Android) )
