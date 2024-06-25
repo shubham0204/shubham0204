@@ -28,28 +28,12 @@
 - [pq.rs](https://github.com/shubham0204/pq.rs): Pure Rust implementation of Product Quantization for Approximate Nearest Neighbor Search
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs): A simple terminal-based diff tool written in Rust
 
-### Web
+### On-Device ML
 
-- [shubham0204.github.io](https://github.com/shubham0204/shubham0204.github.io): My portfolio built with HTML 5, CSS and Bootstrap 5.3
-- [WASM-JS-Algorithms](https://github.com/shubham0204/WASM-JS-Algorithms): Implementation of various algorithms in WebAssembly and vanilla Javascript
-
-### Backend
-
-- [Recruiting/Shortlisting CVs with OpenAI's API (FastAPI)](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend)
-- [blogpost-backend (FastAPI)](https://github.com/shubham0204/blogpost-backend)
-- [INC-DBMS-Project (Ktor)](https://github.com/Advait0801/INC-DBMS-Project/tree/backend)
-
-### Data Structures / Algorithms
-
-- [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
-- [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
-- [full-text-search](https://github.com/shubham0204/full-text-search) (Inverted Index)
-- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
-
-### Mobile ML
-
+- [On-Device Face Recognition with FaceNet](https://github.com/shubham0204/OnDevice-Face-Recognition-Android)
+- [Sentence-Embeddings in Android - `all-MiniLM-L2-V6`](https://github.com/shubham0204/Sentence-Embeddings-Android)
 - [On-Device RAG in Android for Document Q&A](https://github.com/shubham0204/Android-Document-QA)
-- [Depth-Anything Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
+- [Depth-Anything v1/v2 Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
 - [Deploying TF models on Heroku for Android](https://heartbeat.comet.ml/deploying-tf-models-on-heroku-for-android-apps-8068f8363978) ( [GitHub](https://github.com/shubham0204/TensorFlow_Model_Deployment_Heroku_Android) )
 - Realtime Depth Estimation In Android ( [GitHub](https://github.com/shubham0204/Realtime_MiDaS_Depth_Estimation_Android) )
@@ -68,6 +52,24 @@
 - [Hands-on With Multiple Linear Regression on Android](https://medium.com/@equipintelligence/hands-on-with-multiple-linear-regression-on-android-723a29e4f690)
 - [Bayes Text Classification in Kotlin for Android without TensorFlow](https://medium.com/predict/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d)
 - [Introducing TensorFlow Lite Android Support Library](https://towardsdatascience.com/tensorflow-lite-android-support-library-simply-ml-on-android-561402292c80)
+
+### Web
+
+- [shubham0204.github.io](https://github.com/shubham0204/shubham0204.github.io): My portfolio built with HTML 5, CSS and Bootstrap 5.3
+- [WASM-JS-Algorithms](https://github.com/shubham0204/WASM-JS-Algorithms): Implementation of various algorithms in WebAssembly and vanilla Javascript
+
+### Backend
+
+- [Recruiting/Shortlisting CVs with OpenAI's API (FastAPI)](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend)
+- [blogpost-backend (FastAPI)](https://github.com/shubham0204/blogpost-backend)
+- [INC-DBMS-Project (Ktor)](https://github.com/Advait0801/INC-DBMS-Project/tree/backend)
+
+### Data Structures / Algorithms
+
+- [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
+- [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
+- [full-text-search](https://github.com/shubham0204/full-text-search) (Inverted Index)
+- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
 
 ### Android
 
@@ -153,7 +155,7 @@
 - [Age + Gender Estimation in Android with TensorFlow](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android) used in [Realtime Age and Gender estimation using MLKit and Tensor Flow Android Studio | Visitor Analysis](https://youtu.be/_o_OFkZnK_8?feature=shared) YouTube video by [The Mobile Dev](https://www.youtube.com/@themobiledev)
 - Notebook [Tweet Classification With MLP-Mixers ( TF-Keras ](https://www.kaggle.com/code/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) referred by the paper [Distinguish risk communication and crisis communication based on deep learning model](https://pubs.aip.org/aip/acp/article/2927/1/060019/3279269/Distinguish-risk-communication-and-crisis)
 
-## Pull Requests
+## Collaborations / Pull Requests
 
 - [`handtracking` Android example to `victordibia/handtracking`](https://github.com/victordibia/handtracking/pull/71)
 - [depth-estimation Android sample to `SunitRoy2703/Tensorflow-lite-kotlin-samples`](https://github.com/SunitRoy2703/Tensorflow-lite-kotlin-samples/pull/1)
