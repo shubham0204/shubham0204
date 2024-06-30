@@ -31,7 +31,7 @@
 ### On-Device ML
 
 - [On-Device Face Recognition with FaceNet](https://github.com/shubham0204/OnDevice-Face-Recognition-Android)
-- [Sentence-Embeddings in Android - `all-MiniLM-L2-V6`](https://github.com/shubham0204/Sentence-Embeddings-Android)
+- [Sentence-Embeddings in Android - `all-MiniLM-L2-V6`](https://proandroiddev.com/from-python-to-android-hf-sentence-transformers-embeddings-1ecea0ce94d8) ( [GitHub](https://github.com/shubham0204/Sentence-Embeddings-Android) )
 - [On-Device RAG in Android for Document Q&A](https://github.com/shubham0204/Android-Document-QA)
 - [Depth-Anything v1/v2 Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
 - [Deploying Scikit-Learn Models In Android Apps With ONNX](https://towardsdatascience.com/deploying-scikit-learn-models-in-android-apps-with-onnx-b3adabe16bab) ( [GitHub](https://github.com/shubham0204/Scikit_Learn_Android_Demo) )
@@ -78,6 +78,7 @@
                  
 ## Blogs
 
+- [From Python To Android: HF Sentence Transformers (Embeddings)](https://proandroiddev.com/from-python-to-android-hf-sentence-transformers-embeddings-1ecea0ce94d8)
 - [WebAssembly: Everything You Need To Know](https://levelup.gitconnected.com/webassembly-everything-you-need-to-know-d1eb0a162f20)
 - [On-Device Machine Learning In Android: Frameworks and Ecosystem](https://proandroiddev.com/on-device-machine-learning-in-android-frameworks-and-ecosystem-888bc42a1d21)
 - [Using C/C++ in Android: A Comprehensive Guide For Beginners](https://proandroiddev.com/using-c-c-in-android-a-comprehensive-guide-for-beginners-8a870cf3dba6)
