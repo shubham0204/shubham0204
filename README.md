@@ -29,7 +29,7 @@
 
 ### On-Device ML
 
-- [On-Device Face Recognition with FaceNet](https://github.com/shubham0204/OnDevice-Face-Recognition-Android)
+- [On-Device Face Recognition with FaceNet](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6) ( [GitHub](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) )
 - [Sentence-Embeddings in Android - `all-MiniLM-L2-V6`](https://proandroiddev.com/from-python-to-android-hf-sentence-transformers-embeddings-1ecea0ce94d8) ( [GitHub](https://github.com/shubham0204/Sentence-Embeddings-Android) )
 - [On-Device RAG in Android for Document Q&A](https://github.com/shubham0204/Android-Document-QA)
 - [Depth-Anything v1/v2 Inference On Android With ONNX](https://github.com/shubham0204/Depth-Anything-Android)
@@ -77,6 +77,7 @@
                  
 ## Blogs
 
+- [Building On-Device Face Recognition In Android](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6)
 - [From Python To Android: HF Sentence Transformers (Embeddings)](https://proandroiddev.com/from-python-to-android-hf-sentence-transformers-embeddings-1ecea0ce94d8)
 - [WebAssembly: Everything You Need To Know](https://levelup.gitconnected.com/webassembly-everything-you-need-to-know-d1eb0a162f20)
 - [On-Device Machine Learning In Android: Frameworks and Ecosystem](https://proandroiddev.com/on-device-machine-learning-in-android-frameworks-and-ecosystem-888bc42a1d21)
