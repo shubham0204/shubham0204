@@ -70,8 +70,9 @@
 - [full-text-search](https://github.com/shubham0204/full-text-search) (Inverted Index)
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
 
-### Android
+### Kotlin/Android
 
+- [google-search-kotlin: Get Google Search results in Kotlin](https://github.com/shubham0204/google-search-kotlin)
 - [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
 - [DistilBert](https://github.com/shubham0204/DistilBert)
                  
