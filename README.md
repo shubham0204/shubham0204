@@ -124,6 +124,10 @@
 - [Introducing TensorFlow Lite Android Support Library](https://towardsdatascience.com/tensorflow-lite-android-support-library-simply-ml-on-android-561402292c80)
 - [Introducing Text2Summary: Text Summarization on Android](https://medium.com/@equipintelligence/introducing-text2summary-text-summarization-on-android-674b62419019)
 
+### Co-authored Blogs
+
+- [The Art of Forgetting: Machine Unlearning](https://medium.com/@aarti.lad/the-art-of-forgetting-machine-unlearning-daa3b9b393ac) (with [Aarti Lad](https://www.linkedin.com/in/aartilad/) and [Ruchi Bhale](https://www.linkedin.com/in/ruchi-bhale/))
+
 ### [Demystifying Mathematics - Shubham Panchal](https://medium.com/@equipintelligence/list/mathematics-demystified-7e4d1c18041f)
 
 - [Kernels: Everything You Need to Know](https://towardsdatascience.com/kernels-everything-you-need-to-know-f5d255d95785)
