@@ -29,6 +29,7 @@
 
 ### On-Device ML
 
+- [CLIP Inference In Android With clip.cpp](https://github.com/shubham0204/CLIP-Android)
 - [Segment Anything Inference On Android With ONNX](https://github.com/shubham0204/Segment-Anything-Android)
 - [On-Device Face Recognition with FaceNet](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6) ( [GitHub](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) )
 - [Sentence-Embeddings in Android - `all-MiniLM-L2-V6`](https://proandroiddev.com/from-python-to-android-hf-sentence-transformers-embeddings-1ecea0ce94d8) ( [GitHub](https://github.com/shubham0204/Sentence-Embeddings-Android) )
