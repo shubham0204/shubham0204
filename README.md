@@ -14,6 +14,7 @@
 - [Website](https://shubham0204.github.io)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Medium](https://equipintelligence.medium.com)
+- [Blogpost / Knowledge Base](https://shubham0204.github.io/blogpost/)
 - [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
 - [Linktree (Link Aggregator)](https://linktr.ee/shubham0204)
 
