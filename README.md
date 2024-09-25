@@ -178,3 +178,4 @@
 - [Added Mediapipe and ExecuTorch frameworks to `merveenoyan/awesome-osml-for-devs`](https://github.com/merveenoyan/awesome-osml-for-devs/pull/1)
 - [Added `gnp/minbpe-rs` to `karpathy/minbpe` as a community extension](https://github.com/karpathy/minbpe/pull/67)
 - [Added rust-bert, lancedb and faer crates in rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust/pull/1735)
+- [Add Android sample (JNI binding + Java wrapper class) for `clip.cpp`](https://github.com/monatis/clip.cpp/pull/101)
