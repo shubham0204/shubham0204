@@ -8,6 +8,7 @@
 - Send a message on [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Reddit](https://www.reddit.com/user/shubham0204_dev/)
+- [Bluesky](https://bsky.app/profile/shubham0204.bsky.social)
 
 ## Profiles
 
