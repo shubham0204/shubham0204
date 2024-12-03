@@ -31,6 +31,7 @@
 
 ### On-Device ML
 
+- [SmolChat: Local, on-device GGUF LLMs/SLMs inference in Android](https://github.com/shubham0204/SmolChat-Android)
 - [CLIP Inference In Android With clip.cpp](https://github.com/shubham0204/CLIP-Android)
 - [Segment Anything Inference On Android With ONNX](https://github.com/shubham0204/Segment-Anything-Android)
 - [On-Device Face Recognition with FaceNet](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6) ( [GitHub](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) )
