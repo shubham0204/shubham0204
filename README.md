@@ -61,7 +61,6 @@
 
 ### Web
 
-- [shubham0204.github.io](https://github.com/shubham0204/shubham0204.github.io): My portfolio built with HTML 5, CSS and Bootstrap 5.3
 - [WASM-JS-Algorithms](https://github.com/shubham0204/WASM-JS-Algorithms): Implementation of various algorithms in WebAssembly and vanilla Javascript
 
 ### Backend
@@ -81,8 +80,7 @@
 
 - [google-search-kotlin: Get Google Search results in Kotlin](https://github.com/shubham0204/google-search-kotlin)
 - [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
-- [DistilBert](https://github.com/shubham0204/DistilBert)
-                 
+       
 ## Blogs
 
 - [Building On-Device Face Recognition In Android](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6)
