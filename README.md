@@ -1,6 +1,4 @@
 
-![github_banner](https://github.com/shubham0204/shubham0204/assets/41076823/613fdb60-7bd7-4937-8036-2c392fe0ab11)
-
 <h1 align="left">Shubham Panchal</h1>
 
 > I'm open for freelancing projects in Android and ML. Reach out at [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com).
