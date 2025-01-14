@@ -81,6 +81,7 @@
        
 ## Blogs
 
+- [llama.cpp: Writing A Simple C++ Inference Program for GGUF LLM Models](https://towardsdatascience.com/llama-cpp-writing-a-simple-c-inference-program-for-gguf-llm-models-12bc5f58505f)
 - [Rendering Markdown with Code Syntax Highlighting in Compose/Android](https://medium.com/@equipintelligence/rendering-markdown-with-code-syntax-highlighting-in-compose-android-f8cda0647c87)
 - [Building On-Device Face Recognition In Android](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6)
 - [From Python To Android: HF Sentence Transformers (Embeddings)](https://proandroiddev.com/from-python-to-android-hf-sentence-transformers-embeddings-1ecea0ce94d8)
