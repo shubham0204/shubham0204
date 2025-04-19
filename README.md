@@ -182,3 +182,4 @@
 - [Added `gnp/minbpe-rs` to `karpathy/minbpe` as a community extension](https://github.com/karpathy/minbpe/pull/67)
 - [Added rust-bert, lancedb and faer crates in rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust/pull/1735)
 - [Add Android sample (JNI binding + Java wrapper class) for `clip.cpp`](https://github.com/monatis/clip.cpp/pull/101)
+- Update model cards for Depth-Anything and DINOv2 in HuggingFace `transformers` (PRs [37065](https://github.com/huggingface/transformers/pull/37065) and [37104](https://github.com/huggingface/transformers/pull/37104))
