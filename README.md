@@ -1,8 +1,6 @@
 
 <h1 align="left">Shubham Panchal</h1>
 
-> I'm open for freelancing projects in Android and ML. Reach out at [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com).
-
 ## Reach me at
 
 - Send a message on [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com)
