@@ -70,12 +70,12 @@
 
 - [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
 - [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
-- [full-text-search](https://github.com/shubham0204/full-text-search) (Inverted Index)
+- [full-text-search](https://gitlab.com/shubham0204/full-text-search.java) (Inverted Index)
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
 
 ### Kotlin/Android
 
-- [google-search-kotlin: Get Google Search results in Kotlin](https://github.com/shubham0204/google-search-kotlin)
+- [google-search-kotlin: Get Google Search results in Kotlin](https://gitlab.com/shubham0204/google-search-results.kt)
 - [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
        
 ## Blogs
