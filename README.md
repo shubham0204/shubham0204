@@ -14,18 +14,17 @@
 - [Website](https://shubham0204.github.io)
 - [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
 - [Medium](https://equipintelligence.medium.com)
-- [Blogpost / Knowledge Base](https://shubham0204.github.io/blogpost/)
+- [Blogpost](https://shubham0204.github.io/blogpost/)
 - [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
-- [Linktree (Link Aggregator)](https://linktr.ee/shubham0204)
 
 ## OSS Projects
 
 ### Rust
 
-- [text-predictor-android](https://github.com/shubham0204/text-predictor-android): Next word prediction and word auto-complete for Android - with the power of Rust 
+- [text-predictor-android](https://github.com/shubham0204/text-predictor-android): Next word prediction and word auto-complete for Android - with the power of Rust
 - [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs) ![tfidf-text-summarizer downloads](https://img.shields.io/crates/d/tfidf-text-summarizer): Simple, efficient and cross-platform TFIDF-based text summarizer in Rust
 - [postagger.rs](https://github.com/shubham0204/postagger.rs) ![postagger downloads](https://img.shields.io/crates/d/postagger): NLTK inspired Parts-of-Speech Tagger (Perceptron Tagger) in Rust
-- [pq.rs](https://github.com/shubham0204/pq.rs): Pure Rust implementation of Product Quantization for Approximate Nearest Neighbor Search
+- [pq.rs](https://gitlab.com/shubham0204/pq.rs): Pure Rust implementation of Product Quantization for Approximate Nearest Neighbor Search
 - [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs): A simple terminal-based diff tool written in Rust
 
 ### On-Device ML
@@ -58,7 +57,7 @@
 
 ### Web
 
-- [WASM-JS-Algorithms](https://github.com/shubham0204/WASM-JS-Algorithms): Implementation of various algorithms in WebAssembly and vanilla Javascript
+- [WASM-JS-Algorithms](https://gitlab.com/shubham0204/WASM-JS-Algorithms): Implementation of various algorithms in WebAssembly and vanilla Javascript
 
 ### Backend
 
@@ -77,7 +76,7 @@
 
 - [google-search-kotlin: Get Google Search results in Kotlin](https://gitlab.com/shubham0204/google-search-results.kt)
 - [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
-       
+
 ## Blogs
 
 - [Containers: Everything You Need To Know](https://medium.com/@equipintelligence/containers-everything-you-need-to-know-0758fb5e1eaa)
@@ -121,7 +120,7 @@
 - [Exploring Random Forests In Light Of Kotlin](https://heartbeat.fritz.ai/exploring-random-forests-in-the-light-of-kotlin-250210793248)
 - (**Archive**) [Gaussian Naive Bayes ( for Iris Classification ) in Android](https://heartbeat.fritz.ai/implementing-the-gaussian-naive-bayes-classifier-in-android-67746b69d1b1)
 - (**Archive**) [Sarcasm Detection using Word Embeddings in Android](https://medium.com/@equipintelligence/sarcasm-detection-using-word-embeddings-in-android-999a791d676a)
-- [Hands-on With Multiple Linear Regression on Android](https://medium.com/@equipintelligence/hands-on-with-multiple-linear-regression-on-android-723a29e4f690)
+- (**Archive**) [Hands-on With Multiple Linear Regression on Android](https://medium.com/@equipintelligence/hands-on-with-multiple-linear-regression-on-android-723a29e4f690)
 - (**Archive**) [Bayes Text Classification in Kotlin for Android without TensorFlow](https://medium.com/predict/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d)
 - (**Archive**) [How I made Skinly for Melanoma Detection in Android](https://medium.com/dataseries/how-i-made-skinly-for-melanoma-detection-in-android-6ad00f0bd26d)
 - (**Archive**) [Text Classification in Android with TensorFlow](https://medium.com/dataseries/spam-classification-in-android-with-tensorflow-lite-cde417e81260)
