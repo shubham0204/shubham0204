@@ -79,6 +79,7 @@
 
 ## Blogs
 
+- [Generating Java Data Structures With LLMs Like Apple’s Foundation Models Framework](https://medium.com/@equipintelligence/generating-java-data-structures-with-llms-like-apples-foundation-models-framework-bd161f6f1be0)
 - [Educational: Remote Code Execution With Buffer Overflow In C](https://shubham0204.github.io/blogpost/programming/rce-with-buffer-overflow)
 - [Explained: How Does L1 Regularization Perform Feature Selection?](https://towardsdatascience.com/explained-how-does-l1-regularization-perform-feature-selection/)
 - [llama.cpp: Writing A Simple C++ Inference Program for GGUF LLM Models](https://medium.com/data-science/llama-cpp-writing-a-simple-c-inference-program-for-gguf-llm-models-12bc5f58505f)
