@@ -188,3 +188,4 @@
 - [Add Android sample (JNI binding + Java wrapper class) for `clip.cpp`](https://github.com/monatis/clip.cpp/pull/101)
 - Update model cards for Depth-Anything and DINOv2 in HuggingFace `transformers` (PRs [37065](https://github.com/huggingface/transformers/pull/37065) and [37104](https://github.com/huggingface/transformers/pull/37104))
 - Add a Homebrew Cask for [ggml/llamabarn](https://github.com/ggml-org/LlamaBarn) (PR https://github.com/Homebrew/homebrew-cask/pull/233076)
+- Add new `Tensor.zeros()` and `Tensor.ones()` factory methods to create tensors initialized with zeros and ones in ExecuTorch (PR https://github.com/pytorch/executorch/pull/15388)
