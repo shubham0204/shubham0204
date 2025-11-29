@@ -1,21 +1,11 @@
 
 <h1 align="left">Shubham Panchal</h1>
 
-## Reach me at
+| [Website](https://shubham0204.github.io) | [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/) | [Medium](https://equipintelligence.medium.com) | [Blogpost](https://shubham0204.github.io/blogpost/) | [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal) |
+|---|---|---|---|---|
 
-- Send a message on [panchalshubhamdev@gmail.com](mailto:panchalshubhamdev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
-- [Reddit](https://www.reddit.com/user/shubham0204_dev/)
-- [Bluesky](https://bsky.app/profile/shubham0204.bsky.social)
-- [Peerlist](https://peerlist.io/shubhampanchal)
-
-## Profiles
-
-- [Website](https://shubham0204.github.io)
-- [LinkedIn](https://www.linkedin.com/in/shubham-panchal-82ba92160/)
-- [Medium](https://equipintelligence.medium.com)
-- [Blogpost](https://shubham0204.github.io/blogpost/)
-- [StackExchange](https://stackexchange.com/users/13120333/shubham-panchal)
+| [Reddit](https://www.reddit.com/user/shubham0204_dev/) | [Bluesky](https://bsky.app/profile/shubham0204.bsky.social) | [Peerlist](https://peerlist.io/shubhampanchal) |
+|---|---|---|
 
 ## OSS Projects
 
