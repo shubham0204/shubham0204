@@ -7,19 +7,12 @@
 | [Reddit](https://www.reddit.com/user/shubham0204_dev/) | [Bluesky](https://bsky.app/profile/shubham0204.bsky.social) | [Peerlist](https://peerlist.io/shubhampanchal) |
 |---|---|---|
 
-## OSS Projects
-
-### Rust
-
-- [text-predictor-android](https://github.com/shubham0204/text-predictor-android): Next word prediction and word auto-complete for Android - with the power of Rust
-- [tfidf-summarizer.rs](https://github.com/shubham0204/tfidf-summarizer.rs) ![tfidf-text-summarizer downloads](https://img.shields.io/crates/d/tfidf-text-summarizer): Simple, efficient and cross-platform TFIDF-based text summarizer in Rust
-- [postagger.rs](https://github.com/shubham0204/postagger.rs) ![postagger downloads](https://img.shields.io/crates/d/postagger): NLTK inspired Parts-of-Speech Tagger (Perceptron Tagger) in Rust
-- [pq.rs](https://gitlab.com/shubham0204/pq.rs): Pure Rust implementation of Product Quantization for Approximate Nearest Neighbor Search
-- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs): A simple terminal-based diff tool written in Rust
+## Projects
 
 ### On-Device ML
 
 - [SmolChat: Local, on-device GGUF LLMs/SLMs inference in Android](https://github.com/shubham0204/SmolChat-Android)
+- [model2vec.swift: On-Device Static Sentence Embeddings in Swift/iOS/macOS apps](https://github.com/shubham0204/model2vec.swift)
 - [CLIP Inference In Android With clip.cpp](https://github.com/shubham0204/CLIP-Android)
 - [Segment Anything Inference On Android With ONNX](https://github.com/shubham0204/Segment-Anything-Android)
 - [On-Device Face Recognition with FaceNet](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6) ( [GitHub](https://github.com/shubham0204/OnDevice-Face-Recognition-Android) )
@@ -45,27 +38,26 @@
 - (**Archive**) [Bayes Text Classification in Kotlin for Android without TensorFlow](https://medium.com/predict/bayes-text-classification-in-kotlin-for-android-without-tensorflow-d10f1247c23d)
 - [Introducing TensorFlow Lite Android Support Library](https://medium.com/data-science/tensorflow-lite-android-support-library-simply-ml-on-android-561402292c80)
 
-### Web
+### Other Projects
 
-- [WASM-JS-Algorithms](https://gitlab.com/shubham0204/WASM-JS-Algorithms): Implementation of various algorithms in WebAssembly and vanilla Javascript
-
-### Backend
-
-- [Recruiting/Shortlisting CVs with OpenAI's API (FastAPI)](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend)
-- [blogpost-backend (FastAPI)](https://github.com/shubham0204/blogpost-backend)
-- [INC-DBMS-Project (Ktor)](https://github.com/Advait0801/INC-DBMS-Project/tree/backend)
-
-### Data Structures / Algorithms
-
-- [text-predictor-android](https://github.com/shubham0204/text-predictor-android) (Trie for text-completion)
-- [`glove.c`](https://github.com/shubham0204/glove.c) (Hashtable with open hashing / closed addressing for storing embeddings)
-- [full-text-search](https://gitlab.com/shubham0204/full-text-search.java) (Inverted Index)
-- [diff-tool.rs](https://github.com/shubham0204/diff-tool.rs) (Longest common subsequence using backtracking)
-
-### Kotlin/Android
-
-- [google-search-kotlin: Get Google Search results in Kotlin](https://gitlab.com/shubham0204/google-search-results.kt)
-- [Document Scanner](https://github.com/shubham0204/Simple_Document_Scanner_Android)
+| Project | Description |
+|--------|-------------|
+| [`evolution-sim`](https://github.com/shubham0204/Experiments/tree/main/evolution-sim) | Simulates the evolution of an individual within a population, inspired by [Veritasium's video on the 'Selfish Gene'](https://youtu.be/XX7PdJIGiCw?si=0_wgDOFikhwvP9K3). |
+| [`Postgres-Client`](https://github.com/shubham0204/Experiments/tree/main/Postgres-Client) | This project aims to demonstrate how drivers (types 1-4) communicate with a Postgres DB server to execute queries and display their results. The client communicates with a Postgres DB without using a JDBC/ODBC driver. |
+| [`guided-generation.java`](https://github.com/shubham0204/Experiments/tree/main/guided-generation.java) | Generating Java Data Structures With LLMs Like Apple's Foundation Models Framework |
+| [`glove.c`](https://github.com/shubham0204/glove.c) | Hashtable with open hashing / closed addressing for storing embeddings |
+| [`tfidf-summarizer.rs`](https://github.com/shubham0204/tfidf-summarizer.rs) | Simple, efficient and cross-platform TF-IDF based text summarizer in Rust |
+| [`postagger.rs`](https://github.com/shubham0204/postagger.rs) | NLTK-inspired Parts-of-Speech Tagger (Perceptron Tagger) in Rust |
+| [`pq.rs`](https://gitlab.com/shubham0204/pq.rs) | Pure Rust implementation of Product Quantization for Approximate Nearest Neighbor Search |
+| [`full-text-search`](https://gitlab.com/shubham0204/full-text-search.java) | Inverted Index implementation |
+| [`text-predictor-android`](https://github.com/shubham0204/text-predictor-android) | Next-word prediction and auto-complete for Android (powered by Rust) |
+| [`diff-tool.rs`](https://github.com/shubham0204/diff-tool.rs) | Longest Common Subsequence implementation using backtracking |
+| [`google-search-kotlin`](https://gitlab.com/shubham0204/google-search-results.kt) | Get Google Search results programmatically in Kotlin |
+| [`Simple_Document_Scanner_Android`](https://github.com/shubham0204/Simple_Document_Scanner_Android) | Document Scanner for Android |
+| [`HireMate Backend`](https://github.com/swarajgosavi/LLM_Bankathon/tree/HireMate/backend) | Recruiting / shortlisting CVs using OpenAI API (FastAPI) |
+| [`blogpost-backend`](https://github.com/shubham0204/blogpost-backend) | Backend for Blogpost (FastAPI) |
+| [`INC-DBMS-Project`](https://github.com/Advait0801/INC-DBMS-Project/tree/backend) | Ktor-based backend for INC-DBMS-Project |
+| [`WASM-JS-Algorithms`](https://gitlab.com/shubham0204/WASM-JS-Algorithms) | Implementations of various algorithms in WebAssembly and vanilla JavaScript |
 
 ## Blogs
 
@@ -73,6 +65,7 @@
 - [Educational: Remote Code Execution With Buffer Overflow In C](https://shubham0204.github.io/blogpost/programming/rce-with-buffer-overflow)
 - [Explained: How Does L1 Regularization Perform Feature Selection?](https://towardsdatascience.com/explained-how-does-l1-regularization-perform-feature-selection/)
 - [llama.cpp: Writing A Simple C++ Inference Program for GGUF LLM Models](https://medium.com/data-science/llama-cpp-writing-a-simple-c-inference-program-for-gguf-llm-models-12bc5f58505f)
+- [The Art of Forgetting: Machine Unlearning](https://medium.com/@aarti.lad/the-art-of-forgetting-machine-unlearning-daa3b9b393ac) (with [Aarti Lad](https://www.linkedin.com/in/aartilad/) and [Ruchi Bhale](https://www.linkedin.com/in/ruchi-bhale/))
 - [Rendering Markdown with Code Syntax Highlighting in Compose/Android](https://medium.com/@equipintelligence/rendering-markdown-with-code-syntax-highlighting-in-compose-android-f8cda0647c87)
 - [Building On-Device Face Recognition In Android](https://medium.com/proandroiddev/building-on-device-face-recognition-in-android-076a40dbaac6)
 - [From Python To Android: HF Sentence Transformers (Embeddings)](https://proandroiddev.com/from-python-to-android-hf-sentence-transformers-embeddings-1ecea0ce94d8)
@@ -117,7 +110,7 @@
 - [Exploring MobileNets: From Paper To Keras](https://medium.com/data-science/exploring-mobilenets-from-paper-to-keras-f01308ada818)
 - [Exploring DenseNets: From Paper To Keras](https://medium.com/data-science/exploring-densenets-from-paper-to-keras-dcc01725488b)
 
-### Everything You Need To Know - Series
+### Series - Everything You Need To Know
 
 - [Containers: Everything You Need To Know](https://medium.com/@equipintelligence/containers-everything-you-need-to-know-0758fb5e1eaa)
 - [WebAssembly: Everything You Need To Know](https://levelup.gitconnected.com/webassembly-everything-you-need-to-know-d1eb0a162f20)
@@ -125,11 +118,7 @@
 - [Kernels: Everything You Need to Know](https://medium.com/data-science/kernels-everything-you-need-to-know-f5d255d95785)
 - [Principal Component Analysis: Everything You Need To Know](https://medium.com/data-science/principal-component-analysis-everything-you-need-to-know-5f834c9eaa83)
 
-### Co-authored Blogs
-
-- [The Art of Forgetting: Machine Unlearning](https://medium.com/@aarti.lad/the-art-of-forgetting-machine-unlearning-daa3b9b393ac) (with [Aarti Lad](https://www.linkedin.com/in/aartilad/) and [Ruchi Bhale](https://www.linkedin.com/in/ruchi-bhale/))
-
-### [Demystifying Mathematics - Shubham Panchal](https://medium.com/@equipintelligence/list/mathematics-demystified-7e4d1c18041f)
+### [Series - Demystifying Mathematics](https://medium.com/@equipintelligence/list/mathematics-demystified-7e4d1c18041f)
 
 - [Demystifying Monte Carlo Integration](https://www.cantorsparadise.com/demystifying-monto-carlo-integration-7c9bd0e37689)
 - [Demystifying Linear Independence](https://www.cantorsparadise.com/linear-independence-demystified-88235936722d)
@@ -139,6 +128,25 @@
 - [Demystifying The Moore-Penrose Generalized Inverse](https://www.cantorsparadise.com/demystifying-the-moore-penrose-generalized-inverse-a1b989a1dd49)
 - [Taylor Series And The Power Of Approximation](https://www.cantorsparadise.com/taylor-series-and-the-power-of-approximation-7d2c16596f89)
 - [Entropy In The World Of Computer Science](https://medium.com/swlh/entropy-in-the-world-of-computer-science-2bd736e48c58)
+
+## Contributions In Other Repos
+
+- Add new `Tensor.zeros()` and `Tensor.ones()` factory methods to create tensors initialized with zeros and ones in ExecuTorch (PR https://github.com/pytorch/executorch/pull/15388)
+- Add a Homebrew Cask for [ggml/llamabarn](https://github.com/ggml-org/LlamaBarn) (PR https://github.com/Homebrew/homebrew-cask/pull/233076)
+- Update model cards for Depth-Anything and DINOv2 in HuggingFace `transformers` (PRs [37065](https://github.com/huggingface/transformers/pull/37065) and [37104](https://github.com/huggingface/transformers/pull/37104))
+- [Add Android sample (JNI binding + Java wrapper class) for `clip.cpp`](https://github.com/monatis/clip.cpp/pull/101)
+- [`handtracking` Android example to `victordibia/handtracking`](https://github.com/victordibia/handtracking/pull/71)
+- [depth-estimation Android sample to `SunitRoy2703/Tensorflow-lite-kotlin-samples`](https://github.com/SunitRoy2703/Tensorflow-lite-kotlin-samples/pull/1)
+- [air_drawing demo (a sample for hand landmark detection solution) to `googlesamples/mediapipe`](https://github.com/googlesamples/mediapipe/pull/82)
+- [script for building Debian package to `ataractic/libcfg`](https://github.com/ataractic/libcfg/pull/4)
+- [article `How to Integrate Firebase Authentication with the Ktor Auth Feature` to `mjovanc/awesome-ktor`](https://github.com/mjovanc/awesome-ktor/pull/12)
+- [multiple Kotlin libraries like `kotlindl`, `dotenv-kotlin`, `multik` etc. to `mcxiaoke/awesome-kotlin`](https://github.com/mcxiaoke/awesome-kotlin/pull/115)
+- [Android demo for `LiheYoung/Depth-Anything`](https://github.com/LiheYoung/Depth-Anything/pull/92)
+- [Rust ML frameworks to `josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning/pull/977)
+- [Corrected Android sample code in `README.md` of `codeandtheory/YCharts`](https://github.com/codeandtheory/YCharts/pull/160)
+- [Added Mediapipe and ExecuTorch frameworks to `merveenoyan/awesome-osml-for-devs`](https://github.com/merveenoyan/awesome-osml-for-devs/pull/1)
+- [Added `gnp/minbpe-rs` to `karpathy/minbpe` as a community extension](https://github.com/karpathy/minbpe/pull/67)
+- [Added rust-bert, lancedb and faer crates in rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust/pull/1735)
 
 ## Google Colab Notebooks - Tutorials
 
@@ -156,26 +164,7 @@
 - [From Paper To Keras: MobileNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/MobileNets_With_TensorFlow.ipynb)
 - [From Paper To Keras: DenseNets With TensorFlow](https://colab.research.google.com/github/shubham0204/Google_Colab_Notebooks/blob/main/DenseNets_With_TensorFlow.ipynb)
 
-## Spotlight
+## Project Spotlights
 
 - [Age + Gender Estimation in Android with TensorFlow](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android) used in [Realtime Age and Gender estimation using MLKit and Tensor Flow Android Studio | Visitor Analysis](https://youtu.be/_o_OFkZnK_8?feature=shared) YouTube video by [The Mobile Dev](https://www.youtube.com/@themobiledev)
 - Notebook [Tweet Classification With MLP-Mixers ( TF-Keras ](https://www.kaggle.com/code/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) referred by the paper [Distinguish risk communication and crisis communication based on deep learning model](https://pubs.aip.org/aip/acp/article/2927/1/060019/3279269/Distinguish-risk-communication-and-crisis)
-
-## Collaborations / Pull Requests
-
-- [`handtracking` Android example to `victordibia/handtracking`](https://github.com/victordibia/handtracking/pull/71)
-- [depth-estimation Android sample to `SunitRoy2703/Tensorflow-lite-kotlin-samples`](https://github.com/SunitRoy2703/Tensorflow-lite-kotlin-samples/pull/1)
-- [air_drawing demo (a sample for hand landmark detection solution) to `googlesamples/mediapipe`](https://github.com/googlesamples/mediapipe/pull/82)
-- [script for building Debian package to `ataractic/libcfg`](https://github.com/ataractic/libcfg/pull/4)
-- [article `How to Integrate Firebase Authentication with the Ktor Auth Feature` to `mjovanc/awesome-ktor`](https://github.com/mjovanc/awesome-ktor/pull/12)
-- [multiple Kotlin libraries like `kotlindl`, `dotenv-kotlin`, `multik` etc. to `mcxiaoke/awesome-kotlin`](https://github.com/mcxiaoke/awesome-kotlin/pull/115)
-- [Android demo for `LiheYoung/Depth-Anything`](https://github.com/LiheYoung/Depth-Anything/pull/92)
-- [Rust ML frameworks to `josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning/pull/977)
-- [Corrected Android sample code in `README.md` of `codeandtheory/YCharts`](https://github.com/codeandtheory/YCharts/pull/160)
-- [Added Mediapipe and ExecuTorch frameworks to `merveenoyan/awesome-osml-for-devs`](https://github.com/merveenoyan/awesome-osml-for-devs/pull/1)
-- [Added `gnp/minbpe-rs` to `karpathy/minbpe` as a community extension](https://github.com/karpathy/minbpe/pull/67)
-- [Added rust-bert, lancedb and faer crates in rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust/pull/1735)
-- [Add Android sample (JNI binding + Java wrapper class) for `clip.cpp`](https://github.com/monatis/clip.cpp/pull/101)
-- Update model cards for Depth-Anything and DINOv2 in HuggingFace `transformers` (PRs [37065](https://github.com/huggingface/transformers/pull/37065) and [37104](https://github.com/huggingface/transformers/pull/37104))
-- Add a Homebrew Cask for [ggml/llamabarn](https://github.com/ggml-org/LlamaBarn) (PR https://github.com/Homebrew/homebrew-cask/pull/233076)
-- Add new `Tensor.zeros()` and `Tensor.ones()` factory methods to create tensors initialized with zeros and ones in ExecuTorch (PR https://github.com/pytorch/executorch/pull/15388)
