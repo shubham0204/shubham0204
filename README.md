@@ -166,5 +166,7 @@
 
 ## Project Spotlights
 
+- [llmedge, an Android library built on top of llama.cpp and stable-diffusion.cpp uses SmolLM for JNI bindings](https://www.reddit.com/r/androiddev/comments/1pkl54m/i_built_a_wrapper_around_llamacpp_and/)
+- [Vizuara Technologies adopts SmolChat for their offline education app powered by SLMs](https://www.linkedin.com/posts/shubham0204_offline-slms-which-run-on-mobile-phones-have-activity-7374105605122367488-dlxV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACaaYyMBhQckwUuTLn7w5EUwe00Z8imX4xs)
 - [Age + Gender Estimation in Android with TensorFlow](https://github.com/shubham0204/Age-Gender_Estimation_TF-Android) used in [Realtime Age and Gender estimation using MLKit and Tensor Flow Android Studio | Visitor Analysis](https://youtu.be/_o_OFkZnK_8?feature=shared) YouTube video by [The Mobile Dev](https://www.youtube.com/@themobiledev)
 - Notebook [Tweet Classification With MLP-Mixers ( TF-Keras ](https://www.kaggle.com/code/shubham0204/tweet-classification-with-mlp-mixers-tf-keras) referred by the paper [Distinguish risk communication and crisis communication based on deep learning model](https://pubs.aip.org/aip/acp/article/2927/1/060019/3279269/Distinguish-risk-communication-and-crisis)
