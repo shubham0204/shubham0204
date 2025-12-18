@@ -42,6 +42,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [`androidx-webgpu-api-demo`](https://github.com/shubham0204/Experiments/tree/main/androidx-webgpu-api-demo) | An Android app that uses [`androidx.webgpu`](https://developer.android.com/jetpack/androidx/releases/webgpu) APIs to compute the pair-wise cosine similarity within a set of given vectors and compare the execution time with the CPU |
 | [`evolution-sim`](https://github.com/shubham0204/Experiments/tree/main/evolution-sim) | Simulates the evolution of an individual within a population, inspired by [Veritasium's video on the 'Selfish Gene'](https://youtu.be/XX7PdJIGiCw?si=0_wgDOFikhwvP9K3). |
 | [`Postgres-Client`](https://github.com/shubham0204/Experiments/tree/main/Postgres-Client) | This project aims to demonstrate how drivers (types 1-4) communicate with a Postgres DB server to execute queries and display their results. The client communicates with a Postgres DB without using a JDBC/ODBC driver. |
 | [`guided-generation.java`](https://github.com/shubham0204/Experiments/tree/main/guided-generation.java) | Generating Java Data Structures With LLMs Like Apple's Foundation Models Framework |
