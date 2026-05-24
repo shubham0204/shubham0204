@@ -112,6 +112,11 @@
 - [Exploring MobileNets: From Paper To Keras](https://medium.com/data-science/exploring-mobilenets-from-paper-to-keras-f01308ada818)
 - [Exploring DenseNets: From Paper To Keras](https://medium.com/data-science/exploring-densenets-from-paper-to-keras-dcc01725488b)
 
+### Embedded Systems
+
+- [Setting up the programming environment for ESP32-C3 on macOS](https://shubham0204.github.io/blogpost/programming/esp32-c3-setup-macos)
+- [Setting up Rust for ESP32-C3 on macOS](https://shubham0204.github.io/blogpost/programming/esp32-c3-rust-macos)
+
 ### Series - Everything You Need To Know
 
 - [Containers: Everything You Need To Know](https://medium.com/@equipintelligence/containers-everything-you-need-to-know-0758fb5e1eaa)
