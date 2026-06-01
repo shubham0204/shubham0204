@@ -42,6 +42,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [`esp32-wifi-trilateration`](https://github.com/shubham0204/Experiments/tree/main/esp32-wifi-trilateration) | WiFi trilateration using ESP32-C3 and ESP-IDF. Determines the current location of the microcontroller by estimating distance from nearby WiFi access points and trilateration. |
 | [`sentiment-classification-kmp`](https://github.com/shubham0204/Experiments/tree/main/sentiment-classification) | A CMP app that classifies sentiment of the input text using platform-specific APIs - LiteRT (Android), `NaturalLanguage` (iOS) and Stanford CoreNLP (desktop) |
 | [`androidx-webgpu-api-demo`](https://github.com/shubham0204/Experiments/tree/main/androidx-webgpu-api-demo) | An Android app that uses [`androidx.webgpu`](https://developer.android.com/jetpack/androidx/releases/webgpu) APIs to compute the pair-wise cosine similarity within a set of given vectors and compare the execution time with the CPU |
 | [`evolution-sim`](https://github.com/shubham0204/Experiments/tree/main/evolution-sim) | Simulates the evolution of an individual within a population, inspired by [Veritasium's video on the 'Selfish Gene'](https://youtu.be/XX7PdJIGiCw?si=0_wgDOFikhwvP9K3). |
